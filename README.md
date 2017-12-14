@@ -101,8 +101,9 @@ The mentoring relationship should be **\*mentee-driven and mentor-guided***. The
 - Meet with their mentor for at least one hour every three weeks.
 - Drive activity towards career goals (have a “growth attitude”).
 
+### General Mentorship Details
 
-### Accounting for language diversity
+#### Accounting for language diversity
 
 To account for language diversity during the pairing phase, the form will include the following:
 - The preferred language of the mentee/mentor 
@@ -110,14 +111,14 @@ To account for language diversity during the pairing phase, the form will includ
 - The mentee/mentor restrictly requires a non-english language for communication.
 - a notice that restricting the language might result in a slower pairing process.
 
-### Displaying the list of mentors and mentees
+#### Displaying the list of mentors and mentees
 
 Initially in the program's github page, and asking candidates to join the slack channel to reach out and meet people over specific channels.
 
-### What is the communication channel to be used for communication between mentors/mentees?
+#### What is the communication channel to be used for communication between mentors/mentees?
 Slack is used as a channel for the initial meeting, then the pair can decide as they see fit.
 
-### Duration of the mentorship program for the paired up mentor/mentee
+#### Duration of the mentorship program for the paired up mentor/mentee
 6 months
 
 
@@ -131,7 +132,13 @@ Slack is used as a channel for the initial meeting, then the pair can decide as 
 6. Publicize the program through the node ecosystem (node facebook pages, blog articles, personal connections)
 
 
-### Inspired by the following mentorship programs:
+## Inspiration and References
+
+The structure and details of this initiative is inspired by the following mentorship programs, lots of details are combined and taken from these sources:
+
+- [Node-forward Mentors](https://github.com/node-forward/mentors)
+- [Node-forward discussions](https://github.com/node-forward/mentors/issues/26)
+- [Node.js Mentor Program Form](https://docs.google.com/forms/d/e/1FAIpQLSf3aR7asv-flRgPTz7Csi9ILAGyPU2iGgid3OIOe7l9J8AxjA/viewform)
 - [mentorship by NYTimes](https://nytimes.github.io/mentorship/)
 - [hapi.js mentors program](https://hapijs.com/help)
 - [PHP Mentoring](https://php-mentoring.org/mentors)
