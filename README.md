@@ -18,7 +18,7 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 ##### Mentors will help out in the following
 
 - General guidance (any topic related to node's ecosystem and javascript)
-- Contributing to node OSS guidance
+- Guidance for contributing to node OSS
 - Pair programming
 - Code review
 
@@ -64,19 +64,24 @@ The mentorship duration will be 6 months, during which the mentor will provide g
 ![Alt text](/proposed_structure.png?raw=true "Proposed Mentorship Program Structure")
 _*Inspired by [kubernetes pilot prorgam](https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76)*_
 
+### Declare intent and goals
+
+A project under node, (ie node-core) declares the intent to join the mentorship program. An announcement (with enrollment instructions) will be added in the node-ment by the commcomm to declare an opening for a mentorship program for the mentioned project.
+
 ### Matching
 
-Before the program starts, mentees will fill out a survey indicating the areas of focus they’d like to work on. Mentors will fill out a similar survey indicating the areas they feel comfortable advising on. This information will be used to pair people.
+Before the program starts, mentees will fill out a survey indicating the areas of focus they’d like to work on. Mentors will fill out a similar survey indicating the areas they feel comfortable advising on. This information will be used to pair people. The Concerned Project commity / members will nominate mentors, in addition to filter the list of prospect mentors willing to join the program.
 
+The Commcomm will match mentor/mentee pairs based on their language, goals, and other preferences.
 
 ### Kickoff
 
-A kickoff email will be sent informing the mentor and mentee about their pair up. A meeting will be scheduled to introduce them to each other, set a schedule, expectations and goals.
+A kickoff email will be sent informing the mentor/mentee pair about their match up.
 
-In their first meeting, pairs should decide on a method for scheduling future meetings. They should also decide on what should be held confidential and what can be shared outside the relationship.
+A meeting will be scheduled to introduce them to each other. Pairs should agree on a mentorship schedule, expectations and goals, and the medium of communication. They should also decide on what should be held confidential and what can be shared outside the relationship.
 
 
-### Regular Mentor/Mentee Meetings (6 months)
+### Regular Mentor/Mentee Meetings
 
 Mentors and mentees will meet for **at least an hour every month** for the following 6 months 
 Ongoing Support for mentors and mentees. In addition to the meetings, the mentor should champion any PR submitted by the mentee during the mentership program in the node project.
