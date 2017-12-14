@@ -6,15 +6,6 @@ An initiative to kick off node mentorship program (node ment)
 
 Bring more contributors to NodeJS projects by mentoring people about node's environment and ecosystem, helping them in contributing to node, championing their PRs through code review and general help.
 
-#### Benefits for mentors
-
-- You will get to meet talented, driven people from across the nodeJS community.
-- You will have the opportunity to practice mentoring people through guidance and communication, which is a valuable skill for any manager or a leader.
-- You will show your commitment to help to the node OSS.
-- You will be invited to node events at a discount, and might be invited to speak in some events.
-- You might be invited to participate in group mentorship events and programs.
-- You will be joining node's mentors team
-
 #### Benefits for mentees
 
 - You will receive personalized guidance to contribute to node and understand its ecosystem.
@@ -24,12 +15,21 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 - You will recieve personalized help in understanding node's source code, and improving your programming skills.
 - You will have an opportunity to work on soft skills such as communicating and problem solving.
 
-##### Benefits for mentees
+##### Mentors will help out in the following
 
 - General guidance (any topic related to node's ecosystem and javascript)
 - Pair programming
 - Code review
 - Resume review
+
+#### Benefits for mentors
+
+- You will get to meet talented, driven people from across the nodeJS community.
+- You will have the opportunity to practice mentoring people through guidance and communication, which is a valuable skill for any manager or a leader.
+- You will show your commitment to help to the node OSS.
+- You will be invited to node events at a discount, and might be invited to speak in some events.
+- You might be invited to participate in group mentorship events and programs.
+- You will be joining node's mentors team
 
 
 ### Mindset
