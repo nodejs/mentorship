@@ -131,6 +131,9 @@ Slack is used as a channel for the initial meeting, then the pair can decide as 
 5. Reach out to the mentors list in the node-forward mentors program: https://github.com/node-forward/mentors
 6. Publicize the program through the node ecosystem (node facebook pages, blog articles, personal connections)
 
+##### Future
+We can organize group mentorship events through 
+
 
 ## Inspiration and References
 
@@ -152,3 +155,8 @@ The structure and details of this initiative is inspired by the following mentor
 ## Draft
 
 This is an initial draft to address the initiative, with the intent to transfer ownership to the [Node.js Foundation](https://github.com/nodejs);
+
+
+### Additional Context
+
+- [#community-committee/172](https://github.com/nodejs/community-committee/issues/172) Mentorship Team under the CommComm
