@@ -13,7 +13,7 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 - You will show your commitment to help to the node OSS.
 - You will be invited to node events at a discount, and might be invited to speak in some events.
 - You might be invited to participate in group mentorship events and programs.
-
+- You will be joining node's mentors team
 
 #### Benefits for mentees
 
@@ -24,6 +24,12 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 - You will recieve personalized help in understanding node's source code, and improving your programming skills.
 - You will have an opportunity to work on soft skills such as communicating and problem solving.
 
+##### Benefits for mentees
+
+- General guidance (any topic related to node's ecosystem and javascript)
+- Pair programming
+- Code review
+- Resume review
 
 
 ### Mindset
@@ -48,22 +54,15 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 - **Mentors guide** - Mentors make themselves available to their mentees and they actively listen. Guidance includes sharing experiences, past or present, and how mentors dealt with a particular challenge or situation.
 - **Mentors are a connection point** - Mentors connect mentees with people and resources (e.g. articles, classes). Mentors aren’t expected to know all the answers. A mentor’s job should be to help mentees work through problems, not always being or finding the solution themselves.
 
-Mentors offer:
-- General guidance (any topic related to node's ecosystem and javascript)
-- Pair programming
-- Code review
-- Resume review
 
+# The Mentroship Program Structure
 
-# Mentroship Program Structure
+The mentorship duration will be 6 months, during which the mentor will provide guidance and help to the mantee on an agreed schedule.
 
-The mentorship duration will be 6 months, during which the mentor will provide guidance and help to the mantee on an agreed schedule
 ## Process
 
 ![Alt text](/proposed_structure.png?raw=true "Proposed Mentorship Program Structure")
-_*Inspired from [kubernetes pilot prorgam](https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76)*_
-
-
+_*Inspired by [kubernetes pilot prorgam](https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76)*_
 
 ### Matching
 
@@ -83,9 +82,6 @@ Mentors and mentees will meet for **at least an hour every month** for the follo
 Ongoing Support for mentors and mentees. In addition to the meetings, the mentor should champion any PR submitted by the mentee during the mentership program in the node project.
 
 - Slack channels for mentors and mentees to create a space for conversation, encouragement and learnings.
-
-
-### Graduation
 
 
 ### Expectations
@@ -114,7 +110,7 @@ To account for language diversity during the pairing phase, the form will includ
 - The mentee/mentor restrictly requires a non-english language for communication.
 - a notice that restricting the language might result in a slower pairing process.
 
-### Where will we show the list of mentors (name, picture?, country, description).
+### Displaying the list of mentors and mentees
 
 Initially in the program's github page, and asking candidates to join the slack channel to reach out and meet people over specific channels.
 
@@ -124,18 +120,15 @@ Slack is used as a channel for the initial meeting, then the pair can decide as 
 ### Duration of the mentorship program for the paired up mentor/mentee
 6 months
 
-### Graduation / reward for participating
-
-mentors:
-- joining the node mentor's team
-
 
 ## kick off the mentorship program
 
-1. Reach out to the mentors list in the node-forward mentors program: https://github.com/node-forward/mentors
-2. Publicize the program through the node ecosystem (node facebook pages, blog articles, personal connections)
+1. Finalize and reach consensus on the program structure and process.
+2. Finalize Logistsics (ie. forms to be filled by mentees and mentors).
 3. Create a slack channel for interested and joined mentors and mentees, this lowers the barrier for people to join, by increasing visiblity of members and show the activity of the program.
-
+4. Announce to all node projcets (ie node-core) about the availability of the program, so they can reveal interest and goals in joining.
+5. Reach out to the mentors list in the node-forward mentors program: https://github.com/node-forward/mentors
+6. Publicize the program through the node ecosystem (node facebook pages, blog articles, personal connections)
 
 
 ### Inspired by the following mentorship programs:
