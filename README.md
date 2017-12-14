@@ -137,7 +137,11 @@ Slack is used as a channel for the initial meeting, then the pair can decide as 
 6. Publicize the program through the node ecosystem (node facebook pages, blog articles, personal connections)
 
 ##### Future
-We can organize group mentorship events through 
+After collecting a group of mentor members and being confident in the mentorship process, the program can advance to include the following:
+
+- Coordinate mentorship events through platforms like [outreachy](https://www.outreachy.org/)
+- Confrences and group mentorship programs
+- widen the scope of the mentorship program.
 
 
 ## Inspiration and References
