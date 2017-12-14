@@ -145,7 +145,8 @@ The structure and details of this initiative is inspired by the following mentor
 - [Udacity Mentorship Encyclopedia](https://miriamswordskalk.gitbooks.io/udacity-mentorship-encyclopedia/)
 - [F# Mentorship program | The F# Software Foundation](http://fsharp.org/mentorship/)
 - [Kubernetes pilots](https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.p)
-
+- [Software Mentorship Program Guidebook](https://community.operationcode.org/t/mentorship-guidebook/247)
+- [Xerox-ABI Online Community and Mentoring Project](https://anitab.org/wp-content/uploads/2014/01/MENTORING-GUIDE.pdf)
 
 
 ## Draft
