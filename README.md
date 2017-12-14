@@ -18,9 +18,9 @@ Bring more contributors to NodeJS projects by mentoring people about node's envi
 ##### Mentors will help out in the following
 
 - General guidance (any topic related to node's ecosystem and javascript)
+- Contributing to node OSS guidance
 - Pair programming
 - Code review
-- Resume review
 
 #### Benefits for mentors
 
