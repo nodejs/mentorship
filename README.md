@@ -1,18 +1,18 @@
 # Node.js Mentorship Program
 
-An initiative to kick off Node.js mentorship program.
+An initiative to kick off the Node.js mentorship program.
 
 **This project is bound by a [Code of Conduct][].**
 
 ## The goal of the mentorship program
 
-Bring more contributors to NodeJS projects by mentoring people about Node.js
-environment and ecosystem, helping them in contributing to Node.js, championing
-their PRs through code review and general help.
+To bring more contributors to NodeJS projects by mentoring people about the Node.js
+environment and ecosystem, helping them contribute to Node.js, championing
+their PRs through code review, and giving general help.
 
 #### Benefits for mentees
 
-- You will receive personalized guidance to contribute to node and
+- You will receive personalized guidance to contribute to Node.js and related projects, and
 understand its ecosystem.
 
 - You will grow your professional network.
@@ -23,30 +23,30 @@ outside your immediate work group.
 - You will gain experience in contributing to OSS in general and Node.js
 contributing practices.
 
-- You will recieve personalized help in understanding various projects under
+- You will receive personalized help in understanding various projects under
 Node.js and improving your skills.
 
-- You will have an opportunity to work on soft skills such as communicating
+- You will have an opportunity to work on soft skills such as communication
 and problem solving.
 
 ##### Mentors will help out in the following
 
-- General guidance (any topic related to Node.js ecosystem and javascript)
+- General guidance (any topic related to Node.js ecosystem and javascript).
 
-- Guidance for contributing to Node.js OSS
+- Guidance for contributing to Node.js OSS.
 
-- Pair programming
+- Pair programming.
 
-- Code review
+- Code review.
 
 #### Benefits for mentors
 
 - You will get to meet talented people from across the Node.js community.
 
-- You will have the opportunity to practice mentoring people through guidance
-and communication, which is a valuable skill for any manager or a leader.
+- You will have the opportunity to practice mentoring people, giving guidance
+and sharing your knowledge, which is a valuable skill for any manager or a leader.
 
-- You will show your commitment to help to the Node.js OSS.
+- You will show your commitment to help the Node.js OSS project.
 
 - You will be invited to Node.js events at a discount, and might get invited to
 speak in Node.js events and conferences.
@@ -93,7 +93,7 @@ on your career.
 
 - **Mentors guide** - Mentors make themselves available to their mentees and
 they actively listen. Guidance includes sharing experiences, past or present,
-and how mentors dealt with a particular challenge or situation.
+and how you may have dealt with a particular challenge or situation.
 
 - **Mentors are a connection point** - Mentors connect mentees with people and
 resources (e.g. articles, classes). Mentors aren’t expected to know all the
@@ -103,7 +103,7 @@ always being or finding the solution themselves.
 # The Mentroship Program Structure
 
 The mentorship duration will be 6 months, during which the mentor will provide
-guidance and help to the mantee on an agreed schedule.
+guidance and help to the mentee on an agreed schedule.
 
 ## Process
 
@@ -112,21 +112,21 @@ _*Inspired by [Kubernetes pilot prorgam][]*_
 
 ### Declare intent and goals
 
-A project under Node.js, (ie node-core) declares the intent to join the
+A project under Node.js, (i.e. node-core) declares the intent to join the
 mentorship program. An announcement (with enrollment instructions) will be added
-in the mentorship project by the commcomm to declare an opening for a mentorship
+in the mentorship project by the CommComm, declaring an opening for a mentorship
 program for the mentioned project.
 
 ### Choosing Mentors
 
 The Node.js mentioned project will be the main contributor in electing and
-choosing the mentors. In addition to called out mentors, candidates from the
-community are required to submit a form to queue up for the selection process.
+choosing mentors. In addition to nominated mentors, candidates from the
+community are required to submit a form to apply for the selection process.
 Check the [Application Forms][] for more details.
 
 ### Identifying Mentees
 
-Mentees fill in a form to be queued up for getting matched with a
+Mentees fill in a form to apply to be matched with a
 mentor. Check the [Application Forms][] for more details.
 
 ### Matching
@@ -134,11 +134,11 @@ mentor. Check the [Application Forms][] for more details.
 Before the program starts, mentees will fill out a survey indicating the areas
 of focus they’d like to work on. Mentors will fill out a similar survey
 indicating the areas they feel comfortable advising on. This information will
-be used to pair people. The Concerned Project commity / members will nominate
-mentors, in addition to filter the list of prospect mentors willing to
+be used to pair people. The Concerned Project community / members will nominate
+mentors, in addition to filtering the list of prospective mentors willing to
 join the program.
 
-The Commcomm will match mentor/mentee pairs based on their language, goals,
+The CommComm will match mentor/mentee pairs based on their language, goals,
 and other preferences.
 
 ### Kickoff
@@ -182,7 +182,7 @@ of focus.
 
 - Attend the kickoff meeting.
 - Identify 1-3 career goals.
-- Meet with their mentor for at least one hour every three weeks.
+- Meet with their mentor for at least one hour every month.
 - Drive activity towards career goals (have a “growth attitude”).
 
 ### General Mentorship Details
@@ -193,12 +193,12 @@ To account for language diversity, the application form includes the following:
 
 - The preferred language of the mentee/mentor 
 - The fluency in speaking/understanding english
-- The mentee/mentor restrictly requires non-english language for communication.
-- a note that restricting the language might result in a slower pairing process.
+- Whether the mentee/mentor requires non-english language for communication.
+  - Note that restricting the language might result in a slower pairing process.
 
 #### Displaying the list of mentors and mentees
 
-Initially in the program's github page, and asking candidates to join the slack
+Initially in the program's GitHub page, and asking candidates to join the Slack
 channel to reach out and meet people over specific channels.
 
 #### What is the communication channel to be used for communication between
@@ -209,38 +209,38 @@ they see fit.
 
 #### Duration of the mentorship program for the paired up mentor/mentee
 
-6 months
+6 months.
 
-## kick off the mentorship program
+## Kickoff the mentorship program
 
 1. Finalize and reach consensus on the program structure and process.
 
-2. Finalize Logistsics (ie. forms to be filled by mentees and mentors).
+2. Finalize Logistics (ie. forms to be filled in by mentees and mentors).
 
-3. Create a slack channel for interested and joined mentors and mentees, this
+3. Create a Slack channel for interested and nominated mentors and mentees, this
 lowers the barrier for people to join, by increasing visiblity of members and
 show the activity of the program.
 
-4. Announce to all Node.js projcets (ie node-core) about the availability of the
+4. Announce to all Node.js projects (i.e. node-core) about the availability of the
 program, so they can reveal interest and goals in joining.
 
 5. Reach out to the mentors list in the node-forward mentors program:
 https://github.com/node-forward/mentors
 
-6. Publicize the program through the Node.js ecosystem (Node.js facebook pages,
-blog articles, personal connections)
+6. Publicize the program through the Node.js ecosystem (Node.js Facebook pages,
+blog articles, personal connections).
 
 7. Update the readme files of the enrolled projects to encourage new comers
 to join the mentorship program.
 
 ##### Future
 
-After collecting a group of mentor members and being confident in the mentorship
+After collecting a group of mentors and being confident in the mentorship
 process, the program can advance to include the following:
 
 - Coordinate mentorship events through platforms like [Outreachy][].
 
-- Confrences and group mentorship programs.
+- Conferences and group mentorship programs.
 
 - Widen the scope of the mentorship program.
 
