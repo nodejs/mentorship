@@ -230,8 +230,8 @@ https://github.com/node-forward/mentors
 6. Publicize the program through the Node.js ecosystem (Node.js facebook pages,
 blog articles, personal connections)
 
-7. Update the readme files of the enrolled projcets to encourage new commenrs
-to join the mentorship.
+7. Update the readme files of the enrolled projects to encourage new comers
+to join the mentorship program.
 
 ##### Future
 
