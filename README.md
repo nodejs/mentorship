@@ -6,14 +6,14 @@ An initiative to kick off the Node.js mentorship program.
 
 ## The goal of the mentorship program
 
-To bring more contributors to NodeJS projects by mentoring people about the Node.js
-environment and ecosystem, helping them contribute to Node.js, championing
-their PRs through code review, and giving general help.
+To bring more contributors to NodeJS projects by mentoring people about the
+Node.js environment and ecosystem, helping them contribute to Node.js,
+championing their PRs through code review, and giving general help.
 
 #### Benefits for mentees
 
-- You will receive personalized guidance to contribute to Node.js and related projects, and
-understand its ecosystem.
+- You will receive personalized guidance to contribute to Node.js and related
+projects, and understand its ecosystem.
 
 - You will grow your professional network.
 
@@ -35,16 +35,18 @@ and problem solving.
 
 - Guidance for contributing to Node.js OSS.
 
-- Pair programming.
-
 - Code review.
+
+- Additional activities agreed upon by both parties such as discussing specific
+resources, pair programming or live coding sessions.
+
 
 #### Benefits for mentors
 
 - You will get to meet talented people from across the Node.js community.
 
 - You will have the opportunity to practice mentoring people, giving guidance
-and sharing your knowledge, which is a valuable skill for any manager or a leader.
+and sharing your knowledge, which is a valuable skill for managers and leaders.
 
 - You will show your commitment to help the Node.js OSS project.
 
@@ -221,8 +223,8 @@ they see fit.
 lowers the barrier for people to join, by increasing visiblity of members and
 show the activity of the program.
 
-4. Announce to all Node.js projects (i.e. node-core) about the availability of the
-program, so they can reveal interest and goals in joining.
+4. Announce to all Node.js projects (i.e. node-core) about the availability of
+the program, so they can reveal interest and goals in joining.
 
 5. Reach out to the mentors list in the node-forward mentors program:
 https://github.com/node-forward/mentors
