@@ -40,7 +40,6 @@ and problem solving.
 - Additional activities agreed upon by both parties such as discussing specific
 resources, pair programming or live coding sessions.
 
-
 #### Benefits for mentors
 
 - You will get to meet talented people from across the Node.js community.
@@ -109,7 +108,7 @@ guidance and help to the mentee on an agreed schedule.
 
 ## Process
 
-![Proposed Mentorship Program Structure](/proposed_structure.png?raw=true)
+![Proposed Mentorship Program Structure](/mentorship_process.png?raw=true)
 _*Inspired by [Kubernetes pilot prorgam][]*_
 
 ### Declare intent and goals
