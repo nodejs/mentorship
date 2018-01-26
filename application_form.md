@@ -33,7 +33,7 @@ __________________________
 
 ## Mentors Form
 
-Candidates must have some kind of contribions to any projcet under nodeJS. Mentors play a huge role in defining the mentee's experience with node, hence they must express passion and resourcefulness to join this program.
+Candidates must have some kind of contributions to any projcet under nodeJS. Mentors play a huge role in defining the mentee's experience with node, hence they must express passion and resourcefulness to join this program.
 
 
 | Field               | Required | Field Type   | Description                                        |
