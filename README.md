@@ -6,7 +6,7 @@ An initiative to kick off the Node.js mentorship program.
 
 ## The goal of the mentorship program
 
-To bring more contributors to NodeJS projects by mentoring people about the
+To bring more contributors to Node.js projects by mentoring people about the
 Node.js environment and ecosystem, helping them contribute to Node.js,
 championing their PRs through code review, and giving general help.
 
