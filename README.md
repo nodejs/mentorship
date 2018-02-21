@@ -218,12 +218,14 @@ they see fit.
 
 * [Contributing to the project][]
 * [Working Groups][]
+* [Kicking off the mentorship program initiative][]
 
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [Apply as a mentor]: https://goo.gl/forms/Gam1SeMgAipUVJsn2
 [Apply as a mentee]: https://goo.gl/forms/dGdOufxI4TTZjM482
 [Node.js Foundation]: https://github.com/nodejs
+[Kicking off the mentorship program initiative]: kickoff.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [Contributing to the project]: CONTRIBUTING.md
 [Kubernetes pilot prorgam]: https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76
