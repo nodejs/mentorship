@@ -112,7 +112,7 @@ guidance and help to the mentee on an agreed schedule.
 ## Process
 
 ![Proposed Mentorship Program Structure](/mentorship_process.png?raw=true)
-_*Inspired by [Kubernetes pilot prorgam][]*_
+_*Inspired by [Kubernetes pilot program][]*_
 
 ### Declare intent and goals
 
