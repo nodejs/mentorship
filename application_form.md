@@ -33,7 +33,7 @@ __________________________
 
 ## Mentors Form
 
-Candidates must have some kind of contribions to any projcet under nodeJS. Mentors play a huge role in defining the mentee's experience with node, hence they must express passion and resourcefulness to join this program.
+Candidates must have some kind of contributions to any project under nodeJS. Mentors play a huge role in defining the mentee's experience with node, hence they must express passion and resourcefulness to join this program.
 
 
 | Field               | Required | Field Type   | Description                                        |
@@ -42,7 +42,7 @@ Candidates must have some kind of contribions to any projcet under nodeJS. Mento
 | Email               | ✓        | Email input  | Email address                                      |
 | Github Account      | ✓        | Text input   | Github Account Name                                |
 | Timezone            | ✓        | Dropdown     | Timezone ranges                                    |
-| NodeJS Experise     | ✓        | Textfield    | Candidate knowledge & experience in nodeJS         |
+| NodeJS Expertise    | ✓        | Textfield    | Candidate knowledge & experience in nodeJS         |
 | Related Skills      | ✓        | Textfield    | A brief CV of your skills (ex coding skills)       |
 | Language Preference | ✓        | Checkbox     | English, and a text input for other languages [*1] |
 | Mentoring Goals     | ✓        | Checkbox     | The reason to joining the mentorship program       |
