@@ -104,7 +104,7 @@ resources (e.g. articles, classes). Mentors aren’t expected to know all the
 answers. A mentor’s job should be to help mentees work through problems, not
 always being or finding the solution themselves.
 
-# The Mentroship Program Structure
+# The Mentorship Program Structure
 
 The mentorship duration will be 6 months, during which the mentor will provide
 guidance and help to the mentee on an agreed schedule.
