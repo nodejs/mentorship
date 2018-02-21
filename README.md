@@ -1,6 +1,9 @@
 # Node.js Mentorship Program
 
-An initiative to kick off the Node.js mentorship program.
+Welcome to the Node.js mentorship program.
+
+- Do you want to enroll as a mentor? Click here to [Apply as a mentor][].
+- Do you want to enroll as a mentee? Click here to [Apply as a mentee][].
 
 **This project is bound by a [Code of Conduct][].**
 
@@ -123,12 +126,12 @@ program for the mentioned project.
 The Node.js mentioned project will be the main contributor in electing and
 choosing mentors. In addition to nominated mentors, candidates from the
 community are required to submit a form to apply for the selection process.
-Check the [Application Forms][] for more details.
+Click here to [Apply as a mentor][].
 
 ### Identifying Mentees
 
 Mentees fill in a form to apply to be matched with a
-mentor. Check the [Application Forms][] for more details.
+mentor. Click here to [Apply as a mentee][].
 
 ### Matching
 
@@ -202,8 +205,7 @@ To account for language diversity, the application form includes the following:
 Initially in the program's GitHub page, and asking candidates to join the Slack
 channel to reach out and meet people over specific channels.
 
-#### What is the communication channel to be used for communication between
-mentors/mentees?
+#### What is the communication channel to be used for communication between mentors/mentees?
 
 Slack is used as a channel for the initial meeting, then the pair can decide as
 they see fit.
@@ -212,74 +214,15 @@ they see fit.
 
 6 months.
 
-## Kickoff the mentorship program
-
-1. Finalize and reach consensus on the program structure and process.
-
-2. Finalize Logistics (ie. forms to be filled in by mentees and mentors).
-
-3. Create a Slack channel for interested and nominated mentors and mentees, this
-lowers the barrier for people to join, by increasing visiblity of members and
-show the activity of the program.
-
-4. Announce to all Node.js projects (i.e. node-core) about the availability of
-the program, so they can reveal interest and goals in joining.
-
-5. Reach out to the mentors list in the node-forward mentors program:
-https://github.com/node-forward/mentors
-
-6. Publicize the program through the Node.js ecosystem (Node.js Facebook pages,
-blog articles, personal connections).
-
-7. Update the readme files of the enrolled projects to encourage new comers
-to join the mentorship program.
-
-##### Future
-
-After collecting a group of mentors and being confident in the mentorship
-process, the program can advance to include the following:
-
-- Coordinate mentorship events through platforms like [Outreachy][].
-
-- Conferences and group mentorship programs.
-
-- Widen the scope of the mentorship program.
-
-## Inspiration and References
-
-The structure and details of this initiative is inspired by the following
-mentorship programs, lots of details are combined and taken from these sources:
-
-- [Node-forward Mentors](https://github.com/node-forward/mentors)
-- [Node-forward discussions](https://github.com/node-forward/mentors/issues/26)
-- [Node.js Mentor Program Form](https://docs.google.com/forms/d/e/1FAIpQLSf3aR7asv-flRgPTz7Csi9ILAGyPU2iGgid3OIOe7l9J8AxjA/viewform)
-- [mentorship by NYTimes](https://nytimes.github.io/mentorship/)
-- [hapi.js mentors program](https://hapijs.com/help)
-- [PHP Mentoring](https://php-mentoring.org/mentors)
-- [Udacity Mentorship Encyclopedia](https://miriamswordskalk.gitbooks.io/udacity-mentorship-encyclopedia/)
-- [F# Mentorship program | The F# Software Foundation](http://fsharp.org/mentorship/)
-- [Kubernetes pilots](https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.p)
-- [Software Mentorship Program Guidebook](https://community.operationcode.org/t/mentorship-guidebook/247)
-- [Xerox-ABI Online Community and Mentoring Project](https://anitab.org/wp-content/uploads/2014/01/MENTORING-GUIDE.pdf)
-
 ## Contributing to Node.js Mentorship Program
 
 * [Contributing to the project][]
 * [Working Groups][]
 
-## Draft
-
-This is an initial draft to address the initiative, with the intent to transfer
-ownership to the [Node.js Foundation][];
-
-### Additional Context
-
-- [#community-committee/172](https://github.com/nodejs/community-committee/issues/172) Mentorship Team under the CommComm
-
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
-[Application Forms]: application_form.md
-[Outreachy]: https://www.outreachy.org/
+[Apply as a mentor]: https://goo.gl/forms/Gam1SeMgAipUVJsn2
+[Apply as a mentee]: https://goo.gl/forms/dGdOufxI4TTZjM482
 [Node.js Foundation]: https://github.com/nodejs
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [Contributing to the project]: CONTRIBUTING.md
