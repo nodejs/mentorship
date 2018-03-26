@@ -170,7 +170,7 @@ encouragement and learnings.
 ### Expectations
 
 The mentoring relationship should be **\*mentee-driven and mentor-guided\***.
-The mentee is expected to identify and drive activity towards his or her career
+The mentee is expected to identify and drive activity towards their career
 goals. Effective mentorship is built on a solid relationship between the mentor
 and mentee, so take time to get to know each other, exploring passions and
 obstacles as they could become relevant (if not already so) to the areas
