@@ -222,7 +222,7 @@ they see fit.
 
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
-[Apply as a mentor]: https://goo.gl/forms/Gam1SeMgAipUVJsn2
+[Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
 [Apply as a mentee]: https://goo.gl/forms/dGdOufxI4TTZjM482
 [Node.js Foundation]: https://github.com/nodejs
 [Kicking off the mentorship program initiative]: kickoff.md
