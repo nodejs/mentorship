@@ -220,6 +220,13 @@ they see fit.
 * [Working Groups][]
 * [Kicking off the mentorship program initiative][]
 
+## Node.js Mentorship Team Members
+* [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
+* [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Project Lead, Co-organizer
+* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Community Committee Champion, Co-organizer
+* [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
+* [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
+
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
