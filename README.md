@@ -34,7 +34,7 @@ and problem solving.
 
 ##### Mentors will help out in the following
 
-- General guidance (any topic related to Node.js ecosystem and javascript).
+- General guidance (any topic related to Node.js ecosystem and JavaScript).
 
 - Guidance for contributing to Node.js OSS.
 
