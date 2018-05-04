@@ -235,4 +235,4 @@ they see fit.
 [Kicking off the mentorship program initiative]: kickoff.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [Contributing to the project]: CONTRIBUTING.md
-[Kubernetes pilot prorgam]: https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76
+[Kubernetes pilot program]: https://docs.google.com/presentation/d/1bRjDEPEn3autWzaEFirbLfHagbZV04Q9kTCalYmnnXw/edit#slide=id.g2900d0522b_0_76
