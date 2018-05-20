@@ -222,8 +222,8 @@ they see fit.
 
 ## Node.js Mentorship Team Members
 * [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
-* [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Project Lead, Co-organizer
-* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Community Committee Champion, Co-organizer
+* [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Community Committee Champion, Co-organizer
+* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Project Lead, Co-organizer
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
 
