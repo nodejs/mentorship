@@ -226,6 +226,7 @@ they see fit.
 * [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Project Lead, Co-organizer
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
+* [detrohutt](https://github.com/detrohutt) - A.J. Roberts
 
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
