@@ -227,6 +227,7 @@ they see fit.
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts
+* [jxm262](https://github.com/jxm262) - Justin Maat
 
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
