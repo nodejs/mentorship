@@ -2,7 +2,6 @@
 This is a general outline of the kickoff meeting to help the meeting leads guide the meeting.
 
 ## Introduction
-
 - Brief intro to mentorship.
     - Process
     - Duration
@@ -12,7 +11,6 @@ This is a general outline of the kickoff meeting to help the meeting leads guide
   - Joining WG meetings is required (if applicable)
 - The mentee and mentor can reach the mentorship team on slack or the Education Assistant (EA)
   - Introduce the Education Assistant and explain his role.
-
 
 ## Scope Introduction
 - The mentor should explain the scope they will be mentoring in
@@ -24,7 +22,6 @@ This is a general outline of the kickoff meeting to help the meeting leads guide
 - Mentors should help their mentees refine their goals during the first week of the program.
 - The mentor should mention their expectation reaching the end of the program.
 
-
 ## Availability
 - Meeting dates and times
 - Medium of communication
@@ -32,4 +29,3 @@ This is a general outline of the kickoff meeting to help the meeting leads guide
 ## Privacy & CoC
 - determine what should be confidential and what can be disclosed.
 - Mentee and mentor are comfortable recording sessions
-
