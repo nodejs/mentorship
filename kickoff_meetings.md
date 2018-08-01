@@ -27,5 +27,11 @@ This is a general outline of the kickoff meeting to help the meeting leads guide
 - Medium of communication
 
 ## Privacy & CoC
-- determine what should be confidential and what can be disclosed.
-- Mentee and mentor are comfortable recording sessions
+- Review and confirm that all meetings and interactions will be done with respect to [Node.js Code of Conduct][]
+- Determine upfront what should be confidential and what can be disclosed, or designate a process such as having private sessions at end of meetings when needed.
+- Determine if the mentee and mentor are comfortable recording sessions
+
+
+
+
+[Node.js Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
