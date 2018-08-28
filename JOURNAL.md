@@ -3,14 +3,13 @@ A place to keep track of all our mentees, mentors, and mentorship rounds.
 
 Click here for the [List of Mentors][] :heart:.
 
-
 ## First Round
-| Mentor                       | Mentee                             | Scope             | Start Date | Diary      | Graduation |
-|------------------------------|------------------------------------|-------------------|------------|------------|------------|
-| [Dan Shaw (@dshaw)][]        | [Ahmad Bamieh (@Bamieh)][]         | [CommComm][]      | | [#79](https://github.com/nodejs/mentorship/issues/79) ||
-| [Stephen Belanger (@Qard)][] | [Princiya Sequeira (@princiya)][]  | [Diagnostics][]   | | [#85](https://github.com/nodejs/mentorship/issues/85) ||
-| [Benjamin Coe (@bcoe)][]     | [Jennifer Bland (@ratracegrad)][]  | [Testing][]       | | [#87](https://github.com/nodejs/mentorship/issues/87) ||
-| [Gus Caplan (@devsnek)][]    | [Kostas Kapetanakis (@kapekost)][] | [VM][]            | | [#90](https://github.com/nodejs/mentorship/issues/90) ||
+| Mentor                       | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
+|------------------------------|------------------------------------|-------------------|--------------|------------|------------|
+| [Dan Shaw (@dshaw)][]        | [Ahmad Bamieh (@Bamieh)][]         | [CommComm][]      | 12 Jul, 2018 | [#79](https://github.com/nodejs/mentorship/issues/79) ||
+| [Benjamin Coe (@bcoe)][]     | [Jennifer Bland (@ratracegrad)][]  | [Testing][]       | 6 Aug, 2018  | [#87](https://github.com/nodejs/mentorship/issues/87) ||
+| [Stephen Belanger (@Qard)][] | [Princiya Sequeira (@princiya)][]  | [Diagnostics][]   | 8 Aug, 2018  | [#85](https://github.com/nodejs/mentorship/issues/85) ||
+| [Gus Caplan (@devsnek)][]    | [Kostas Kapetanakis (@kapekost)][] | [VM][]            | 24 Aug, 2018 | [#90](https://github.com/nodejs/mentorship/issues/90) ||
 
 
 
@@ -33,4 +32,4 @@ Click here for the [List of Mentors][] :heart:.
 [Kostas Kapetanakis (@kapekost)]: https://github.com/kapekost
 
 [//]: # (Misc)
-[List of Mentors]: https://github.com/nodejs/mentorship/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Amentor
+[List of Mentors]: https://github.com/nodejs/mentorship/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Aupdated-desc+label%3Amentor+
