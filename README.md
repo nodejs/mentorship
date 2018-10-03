@@ -195,7 +195,7 @@ of focus.
 
 To account for language diversity, the application form includes the following:
 
-- The preferred language of the mentee/mentor 
+- The preferred language of the mentee/mentor
 - The fluency in speaking/understanding english
 - Whether the mentee/mentor requires non-english language for communication.
   - Note that restricting the language might result in a slower pairing process.
@@ -221,6 +221,7 @@ they see fit.
 * [Kicking off the mentorship program initiative][]
 
 ## Node.js Mentorship Team Members
+
 * [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
 * [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Community Committee Champion, Co-organizer
 * [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Project Lead, Co-organizer
@@ -228,7 +229,7 @@ they see fit.
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts
 * [jxm262](https://github.com/jxm262) - Justin Maat
-
+* [bcoe](https://github.com/bcoe) - Benjamin Coe
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
