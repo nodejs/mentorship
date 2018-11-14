@@ -15,7 +15,7 @@ To get started with the mentorship program, the following steps must be followed
     - [Apply as a Mentee form][].
 
 - [ ] Create a Slack channel for interested and nominated mentors and mentees, this
-lowers the barrier for people to join, by increasing visiblity of members and
+lowers the barrier for people to join, by increasing visibility of members and
 show the activity of the program.
 
 - [ ] Announce to all Node.js projects (i.e. node-core) about the availability of
@@ -28,7 +28,7 @@ https://github.com/node-forward/mentors
 - [ ] Publicize the program through the Node.js ecosystem (Node.js Facebook pages,
 blog articles, personal connections).
 
-- [x] Update the readme files of the enrolled projects to encourage new comers
+- [x] Update the readme files of the enrolled projects to encourage newcomers
 to join the mentorship program.
     Check the main readme file of this repo.
 

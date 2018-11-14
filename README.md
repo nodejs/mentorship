@@ -166,7 +166,7 @@ Mentors and mentees will meet for **at least an hour every month** for the
 following 6 months.
 
 Ongoing Support for mentors and mentees. In addition to the meetings, the mentor
-should champion any PR submitted by the mentee during the mentership program
+should champion any PR submitted by the mentee during the mentorship program
 in the Node.js project.
 
 - Slack channels for mentors and mentees to create a space for conversation,
