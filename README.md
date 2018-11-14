@@ -7,6 +7,11 @@ Welcome to the Node.js mentorship program.
 
 **This project is bound by a [Code of Conduct][].**
 
+<p align="center">
+  <img alt="Mentorship Intro Infographic" src="mentorship_intro.jpg?v=1" />
+  <em>Credits to https://github.com/princiya for this awesome drawing!</em>
+</p>
+
 ## The goal of the mentorship program
 
 To bring more contributors to Node.js projects by mentoring people about the
