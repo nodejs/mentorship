@@ -111,7 +111,7 @@ always being or finding the solution themselves.
 
 # The Mentorship Program Structure
 
-The mentorship duration will be 6 months, during which the mentor will provide
+The mentorship duration will be 10 weeks, during which the mentor will provide
 guidance and help to the mentee on an agreed schedule.
 
 ## Process
@@ -121,7 +121,7 @@ _*Inspired by [Kubernetes pilot program][]*_
 
 ### Declare intent and goals
 
-A project under Node.js, (i.e. node-core) declares the intent to join the
+A project/work group under Node.js, (i.e. nodejs/node) declares the intent to join the
 mentorship program. An announcement (with enrollment instructions) will be added
 in the mentorship project by the CommComm, declaring an opening for a mentorship
 program for the mentioned project.
@@ -162,8 +162,8 @@ what can be shared outside the relationship.
 
 ### Regular Mentor/Mentee Meetings
 
-Mentors and mentees will meet for **at least an hour every month** for the
-following 6 months.
+Mentors and mentees will meet for **at least an hour every week** for the
+following 10 weeks.
 
 Ongoing Support for mentors and mentees. In addition to the meetings, the mentor
 should champion any PR submitted by the mentee during the mentorship program
@@ -185,13 +185,15 @@ of focus.
 
 - Attend the kickoff meeting.
 - Help their mentees refine their goals during the first week of the program.
-- Meet with their mentee for at least one hour every month for 6 months.
+- Meet with their mentee for at least one hour every week for the duration of the cohort.
 
 **Requirements for mentees:**
 
 - Attend the kickoff meeting.
-- Identify 1-3 career goals.
-- Meet with their mentor for at least one hour every month.
+- Identify mentorship goals.
+- Meet with their mentor for at least one hour every week.
+- Update mentorship diary on github.
+- Attend Retrospective after the end of the cohort.
 - Drive activity towards career goals (have a “growth attitude”).
 
 ### General Mentorship Details
@@ -212,12 +214,18 @@ channel to reach out and meet people over specific channels.
 
 #### What is the communication channel to be used for communication between mentors/mentees?
 
-Slack is used as a channel for the initial meeting, then the pair can decide as
-they see fit.
+Slack and emails are used by the mentorship team to communicate with applicants,
+Zoom is used for the kick off meeting.
+
+The pair can decide as they see fit on how they communicate during the kickoff
+meeting, here is what we think works for most:
+
+- Slack/Twitter/Emails for async messaging.
+- Zoom or any other video chat platform for meetings.
 
 #### Duration of the mentorship program for the paired up mentor/mentee
 
-6 months.
+10 Weeks.
 
 ## Contributing to Node.js Mentorship Program
 
