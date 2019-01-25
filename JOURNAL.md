@@ -17,7 +17,7 @@ The duration of the first round is 1 month.
 | [Dan Shaw (@dshaw)][]        | [Ahmad Bamieh (@Bamieh)][]         | [CommComm][]      | 12 Jul, 2018 | [#79](https://github.com/nodejs/mentorship/issues/79) |:+1:|
 | [Stephen Belanger (@Qard)][] | [Princiya Sequeira (@princiya)][]  | [Diagnostics][]   | 5 Aug, 2018  | [#85](https://github.com/nodejs/mentorship/issues/85) |:+1:|
 | [Benjamin Coe (@bcoe)][]     | [Jennifer Bland (@ratracegrad)][]  | [Testing][]       | 6 Aug, 2018  | [#87](https://github.com/nodejs/mentorship/issues/87) |:+1:|
-| [Gus Caplan (@devsnek)][]    | [Kostas Kapetanakis (@kapekost)][] | [VM][]            | 24 Aug, 2018 | [#90](https://github.com/nodejs/mentorship/issues/90) |:-1:|
+| [Gus Caplan (@devsnek)][]    | [Kostas Kapetanakis (@kapekost)][] | [VM][]            | 24 Aug, 2018 | [#90](https://github.com/nodejs/mentorship/issues/90) ||
 
 
 
