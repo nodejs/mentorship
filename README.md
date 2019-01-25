@@ -235,6 +235,7 @@ they see fit.
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts
 * [jxm262](https://github.com/jxm262) - Justin Maat
 * [bcoe](https://github.com/bcoe) - Benjamin Coe
+* [DavidGuttman](https://github.com/DavidGuttman) - David Guttman
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
