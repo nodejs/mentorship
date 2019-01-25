@@ -111,7 +111,7 @@ always being or finding the solution themselves.
 
 # The Mentorship Program Structure
 
-The mentorship duration will be 10 weeks, during which the mentor will provide
+The mentorship duration will be 10 weeks (2.5 months), during which the mentor will provide
 guidance and help to the mentee on an agreed schedule.
 
 ## Process
