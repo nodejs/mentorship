@@ -2,9 +2,6 @@
 
 Welcome to the Node.js mentorship program.
 
-- Do you want to enroll as a mentor? Click here to [Apply as a mentor][].
-- Do you want to enroll as a mentee? Click here to [Apply as a mentee][].
-
 **This project is bound by a [Code of Conduct][].**
 
 <p align="center">
@@ -131,12 +128,12 @@ program for the mentioned project.
 The Node.js mentioned project will be the main contributor in electing and
 choosing mentors. In addition to nominated mentors, candidates from the
 community are required to submit a form to apply for the selection process.
-Click here to [Apply as a mentor][].
+Registration for mentors is currently closed.
 
 ### Identifying Mentees
 
 Mentees fill in a form to apply to be matched with a
-mentor. Click here to [Apply as a mentee][].
+mentor. Registration for mentees is currently closed.
 
 ### Matching
 
@@ -246,8 +243,6 @@ meeting, here is what we think works for most:
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
-[Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
-[Apply as a mentee]: https://goo.gl/forms/TUEAIYVqoFXA4WpF2
 [Node.js Foundation]: https://github.com/nodejs
 [Kicking off the mentorship program initiative]: kickoff.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
