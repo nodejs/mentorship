@@ -2,7 +2,7 @@
 
 Welcome to the Node.js mentorship program.
 
-Second cohort is now open for Mentees: https://docs.google.com/forms/d/e/1FAIpQLSeF9hZnxPR_MWHdkWgKNoVN3R94Chy416Oblpfjjm4EDLEEfA/viewform
+Second cohort is now open for Mentees: Click here for the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeF9hZnxPR_MWHdkWgKNoVN3R94Chy416Oblpfjjm4EDLEEfA/viewform)
 
 
 **This project is bound by a [Code of Conduct][].**
