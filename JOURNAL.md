@@ -1,16 +1,34 @@
 # Mentorship Journal
-A place to keep track of all our mentees, mentors, and mentorship rounds.
+A place to keep track of the cohorts. Click here for the [List of Mentors][] :heart:.
 
-Click here for the [List of Mentors][] :heart:.
 
-## Second Round
-Duration of the second round is 10 weeks.
+## Second Cohort
+
+```yaml
+Cohort: Second cohort
+Duration: 10 weeks
+Applications opening date: April 29th, 2019
+Cohort start Date: TBD (estimate May 10th, 2019)
+Number of mentors: 10
+Notes: Beta round
+```
 
 | Mentor                       | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
 |------------------------------|------------------------------------|-------------------|--------------|------------|------------|
 
-## First Round
-The duration of the first round is 1 month.
+
+
+## First Cohort
+
+```yaml
+Cohort: First cohort
+Duration: 4 weeks
+Applications opening date: Feb 21st, 2018
+Cohort start Date: July 12th, 2018
+Number of mentors: 4
+Notes: Beta round
+```
+
 
 | Mentor                       | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
 |------------------------------|------------------------------------|-------------------|--------------|------------|------------|
@@ -26,6 +44,7 @@ The duration of the first round is 1 month.
 [Diagnostics]: https://github.com/nodejs/diagnostics
 [Testing]: https://github.com/nodejs/node
 [VM]: https://github.com/nodejs/node
+
 
 [//]: # (Mentors)
 [Dan Shaw (@dshaw)]: https://github.com/nodejs/mentorship/issues/74
