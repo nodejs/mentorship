@@ -21,7 +21,7 @@ Notes: Beta round
 ## First Cohort
 
 ```yaml
-Cohort: second cohort
+Cohort: First cohort
 Duration: 4 weeks
 Applications opening date: Feb 21st, 2018
 Cohort start Date: July 12th, 2018
