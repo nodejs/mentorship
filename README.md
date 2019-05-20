@@ -227,6 +227,14 @@ meeting, here is what we think works for most:
 
 10 Weeks.
 
+### Stay Updated
+
+Stay in touch with the mentorship program and receive the latest updates:
+
+- GitHub: Star this repo. We try to document everything here and update the docs regularly.
+- Slack: Join the mentorship channel on Slack at https://www.nodeslackers.com
+- Twitter: Follow us on social media at https://twitter.com/nodejs 
+
 ## Contributing to Node.js Mentorship Program
 
 * [Contributing to the project][]
