@@ -8,13 +8,23 @@ A place to keep track of the cohorts. Click here for the [List of Mentors][] :he
 Cohort: Second cohort
 Duration: 10 weeks
 Applications opening date: April 29th, 2019
-Cohort start Date: TBD (estimate May 10th, 2019)
+Cohort start Date: TBD (estimate June 10th, 2019)
 Number of mentors: 10
 Notes: Beta round
 ```
 
-| Mentor                       | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
-|------------------------------|------------------------------------|-------------------|--------------|------------|------------|
+| Mentor                       | Bio    | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
+|------------------------------|--------|------------------------------------|-------------------|--------------|------------|------------|
+Ben Coe | [#56](https://github.com/nodejs/mentorship/issues/56) | TBD | Testing | TBD | TBD | 
+Stephen Belanger | [#60](https://github.com/nodejs/mentorship/issues/60) | TBD | Diagnostics | TBD | TBD | 
+Matteo Collina | [#120](https://github.com/nodejs/mentorship/issues/120) | TBD | Streams | TBD | TBD | 
+Anna Henningsen | [#128](https://github.com/nodejs/mentorship/issues/128) | TBD | V8 and C++ Core | TBD | TBD | 
+Ian Sutherland | [#121](https://github.com/nodejs/mentorship/issues/121) | TBD | Tooling | TBD | TBD | 
+Vladimir de Turckheim | [#126](https://github.com/nodejs/mentorship/issues/126) | TBD | Diagnostics and Security | TBD | TBD | 
+Guy Bedford | [#123](https://github.com/nodejs/mentorship/issues/123) | TBD | Modules and Tooling | TBD | TBD | 
+Ujjwal Sharma | [#122](https://github.com/nodejs/mentorship/issues/122) | TBD | VM and V8 | TBD | TBD | 
+John David Dalton | [#130](https://github.com/nodejs/mentorship/issues/130) | TBD | Modules and JS Core | TBD | TBD | 
+Ben Michel | [#135](https://github.com/nodejs/mentorship/issues/135) | TBD | Community Committee and i18n |  TBD |  TBD | 
 
 
 
