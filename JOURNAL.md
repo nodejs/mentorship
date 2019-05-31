@@ -13,7 +13,7 @@ Number of mentors: 10
 Notes: Beta round
 ```
 
-| Mentor                       | Bio    | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
+| Mentor                       | Bio    | Mentee                             | Topic             | Start Date   | Diary      | Graduation |
 |------------------------------|--------|------------------------------------|-------------------|--------------|------------|------------|
 Ben Coe | [#56](https://github.com/nodejs/mentorship/issues/56) | TBD | Testing | TBD | TBD | 
 Stephen Belanger | [#60](https://github.com/nodejs/mentorship/issues/60) | TBD | Diagnostics | TBD | TBD | 
@@ -40,7 +40,7 @@ Notes: Beta round
 ```
 
 
-| Mentor                       | Mentee                             | Scope             | Start Date   | Diary      | Graduation |
+| Mentor                       | Mentee                             | Topic             | Start Date   | Diary      | Graduation |
 |------------------------------|------------------------------------|-------------------|--------------|------------|------------|
 | [Dan Shaw (@dshaw)][]        | [Ahmad Bamieh (@Bamieh)][]         | [CommComm][]      | 12 Jul, 2018 | [#79](https://github.com/nodejs/mentorship/issues/79) |:+1:|
 | [Stephen Belanger (@Qard)][] | [Princiya Sequeira (@princiya)][]  | [Diagnostics][]   | 5 Aug, 2018  | [#85](https://github.com/nodejs/mentorship/issues/85) |:+1:|
