@@ -13,18 +13,18 @@ Number of mentors: 10
 Notes: Beta round
 ```
 
-| Mentor                        Mentee                             | Topic             | Start Date   | Diary      | Graduation |
+| Mentor                       | Mentee                             | Topic             | Start Date   | Diary      | Graduation |
 |------------------------------|------------------------------------|-------------------|--------------|------------|------------|
-[Benjamin Coe (@bcoe)][] | TBD | [Testing][] | TBD | TBD | 
-[Stephen Belanger (@Qard)][] | TBD | [Diagnostics][] | TBD | TBD | 
-[Matteo Collina (@mcollina)][] | TBD | Streams | TBD | TBD | 
-[Anna Henningsen (@addaleax)][] | TBD | V8 and C++ Core | TBD | TBD | 
-[Ian Sutherland (@iansu)][] | TBD | Tooling | TBD | TBD | 
-[Vladimir de Turckheim (@vdeturckheim)][] | TBD | Diagnostics and Security | TBD | TBD | 
-[Guy Bedford (@guybedford)][] | TBD | Modules and Tooling | TBD | TBD | 
-[Ujjwal Sharma (@ryzokuken)][] | TBD | VM and V8 | TBD | TBD | 
-[John David Dalton (@jdalton)][] | TBD | Modules and JS Core | TBD | TBD | 
-[Ben Michel (@obensource)][] | TBD | Community Committee and i18n |  TBD |  TBD | 
+| [Benjamin Coe (@bcoe)][] | TBD | [Testing][] | TBD | TBD | 
+| [Stephen Belanger (@Qard)][] | TBD | [Diagnostics][] | TBD | TBD | 
+| [Matteo Collina (@mcollina)][] | TBD | Streams | TBD | TBD | 
+| [Anna Henningsen (@addaleax)][] | TBD | V8 and C++ Core | TBD | TBD | 
+| [Ian Sutherland (@iansu)][] | TBD | Tooling | TBD | TBD | 
+| [Vladimir de Turckheim (@vdeturckheim)][] | TBD | Diagnostics and Security | TBD | TBD | 
+| [Guy Bedford (@guybedford)][] | TBD | Modules and Tooling | TBD | TBD | 
+| [Ujjwal Sharma (@ryzokuken)][] | TBD | VM and V8 | TBD | TBD | 
+| [John David Dalton (@jdalton)][] | TBD | Modules and JS Core | TBD | TBD | 
+| [Ben Michel (@obensource)][] | TBD | Community Committee and i18n |  TBD |  TBD | 
 
 
 ## First Cohort
