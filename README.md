@@ -2,7 +2,7 @@
 
 Welcome to the Node.js mentorship program.
 
-**Status:** Second cohort is currently progress, check the [Mentorship Journal][] for more details.
+**Status:** Second cohort is currently in progress. Check the [Mentorship Journal][] for more details.
 
 
 **This project is bound by a [Code of Conduct][].**
