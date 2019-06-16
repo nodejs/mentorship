@@ -1,8 +1,8 @@
-# Node.js Mentorship Program
+# Node.js Mentorship
 
 Welcome to the Node.js mentorship program.
 
-Second cohort is now open for Mentees: Click here for the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeF9hZnxPR_MWHdkWgKNoVN3R94Chy416Oblpfjjm4EDLEEfA/viewform)
+**Status:** Second cohort is currently progress, check the [Mentorship Journal][] for more details.
 
 
 **This project is bound by a [Code of Conduct][].**
@@ -253,6 +253,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 * [bcoe](https://github.com/bcoe) - Benjamin Coe
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman
 
+[Mentorship Journal]: JOURNAL.md
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [Node.js Foundation]: https://github.com/nodejs
 [Kicking off the mentorship program initiative]: kickoff.md
