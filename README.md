@@ -244,14 +244,18 @@ Stay in touch with the mentorship program and receive the latest updates:
 ## Node.js Mentorship Team Members
 
 * [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
-* [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Community Committee Champion, Co-organizer
-* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Project Lead, Co-organizer
-* [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
-* [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
-* [detrohutt](https://github.com/detrohutt) - A.J. Roberts
+* [bamieh](https://github.com/bamieh) - Ahmad Bamieh <ahmadbamieh@gmail.com> - Project Lead and Community Committee Champion
+* [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com>
+* [bcoe](https://github.com/bcoe) - Benjamin Coe <bencoe@google.com>
+* [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la>
+
+### Node.js Mentorship Emeriti
+
+* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com>
 * [jxm262](https://github.com/jxm262) - Justin Maat
-* [bcoe](https://github.com/bcoe) - Benjamin Coe
-* [DavidGuttman](https://github.com/DavidGuttman) - David Guttman
+* [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr.
+* [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
+
 
 [Mentorship Journal]: JOURNAL.md
 [Code of Conduct]: CODE_OF_CONDUCT.md
