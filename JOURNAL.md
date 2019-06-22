@@ -13,19 +13,18 @@ Number of mentors: 10
 Notes: Beta round
 ```
 
-| Mentor                       | Bio    | Mentee                             | Topic             | Start Date   | Diary      | Graduation |
-|------------------------------|--------|------------------------------------|-------------------|--------------|------------|------------|
-Ben Coe | [#56](https://github.com/nodejs/mentorship/issues/56) | TBD | Testing | TBD | TBD | 
-Stephen Belanger | [#60](https://github.com/nodejs/mentorship/issues/60) | TBD | Diagnostics | TBD | TBD | 
-Matteo Collina | [#120](https://github.com/nodejs/mentorship/issues/120) | TBD | Streams | TBD | TBD | 
-Anna Henningsen | [#128](https://github.com/nodejs/mentorship/issues/128) | TBD | V8 and C++ Core | TBD | TBD | 
-Ian Sutherland | [#121](https://github.com/nodejs/mentorship/issues/121) | TBD | Tooling | TBD | TBD | 
-Vladimir de Turckheim | [#126](https://github.com/nodejs/mentorship/issues/126) | TBD | Diagnostics and Security | TBD | TBD | 
-Guy Bedford | [#123](https://github.com/nodejs/mentorship/issues/123) | TBD | Modules and Tooling | TBD | TBD | 
-Ujjwal Sharma | [#122](https://github.com/nodejs/mentorship/issues/122) | TBD | VM and V8 | TBD | TBD | 
-John David Dalton | [#130](https://github.com/nodejs/mentorship/issues/130) | TBD | Modules and JS Core | TBD | TBD | 
-Ben Michel | [#135](https://github.com/nodejs/mentorship/issues/135) | TBD | Community Committee and i18n |  TBD |  TBD | 
-
+| Mentor                       | Mentee                             | Topic             | Start Date   | Diary      | Graduation |
+|------------------------------|------------------------------------|-------------------|--------------|------------|------------|
+| [Benjamin Coe (@bcoe)][] | TBD | [Testing][] | TBD | TBD | 
+| [Stephen Belanger (@Qard)][] | TBD | [Diagnostics][] | TBD | TBD | 
+| [Matteo Collina (@mcollina)][] | TBD | Streams | TBD | TBD | 
+| [Anna Henningsen (@addaleax)][] | TBD | V8 and C++ Core | TBD | TBD | 
+| [Ian Sutherland (@iansu)][] | TBD | Tooling | TBD | TBD | 
+| [Vladimir de Turckheim (@vdeturckheim)][] | TBD | Diagnostics and Security | TBD | TBD | 
+| [Guy Bedford (@guybedford)][] | TBD | Modules and Tooling | TBD | TBD | 
+| [Ujjwal Sharma (@ryzokuken)][] | TBD | VM and V8 | TBD | TBD | 
+| [John David Dalton (@jdalton)][] | TBD | Modules and JS Core | TBD | TBD | 
+| [Ben Michel (@obensource)][] | TBD | Community Committee and i18n |  TBD |  TBD | 
 
 
 ## First Cohort
@@ -61,6 +60,16 @@ Notes: Beta round
 [Stephen Belanger (@Qard)]: https://github.com/nodejs/mentorship/issues/60
 [Benjamin Coe (@bcoe)]: https://github.com/nodejs/mentorship/issues/56
 [Gus Caplan (@devsnek)]: https://github.com/nodejs/mentorship/issues/58
+[Matteo Collina (@mcollina)]: https://github.com/nodejs/mentorship/issues/120
+[Anna Henningsen (@addaleax)]: https://github.com/nodejs/mentorship/issues/128
+[Ian Sutherland (@iansu)]: https://github.com/nodejs/mentorship/issues/121
+[Vladimir de Turckheim (@vdeturckheim)]: https://github.com/nodejs/mentorship/issues/126
+[Guy Bedford (@guybedford)]: https://github.com/nodejs/mentorship/issues/123
+[Ujjwal Sharma (@ryzokuken)]: https://github.com/nodejs/mentorship/issues/122
+[John David Dalton (@jdalton)]: https://github.com/nodejs/mentorship/issues/130
+[Ben Michel (@obensource)]: https://github.com/nodejs/mentorship/issues/135
+
+
 
 [//]: # (Mentees)
 [Ahmad Bamieh (@Bamieh)]: https://github.com/Bamieh
