@@ -3,25 +3,31 @@
 (Mentorship Round 1) @dshaw will be mentoring @bamieh on commcomm.
 
 #Kickoff meeting (15 July 2018)
+---
 Due to some technical issues we failed to record the meeting.
 
 ##Scope Introduction
+---
 Dan will be mentoring in the CommComm Scope, mainly around taking off and managing commcomm initiatives.
 
 >The Community Committee works to empower people in every part of the project. By making the Node.js project more diverse and improving the environment for inclusivity, we attract a wider range of views, voices, and opinions, which in turn helps us ship better software.
 
 ##Goals & Expectations
+---
 - Get Dan's expertise in managing Open source project/initiatives
 - Get feedback on the decisions I make in both commcomm and mentorship
 - Dan wants to make sure that I have more confidence making decisions in the project.
 
 ##Availability
+---
 Dan does not prefer slack to setup the meetings. We'll be doing 30 minutes meetings each week, the meeting time and date will be flexible. Meetings will be held on Zoom.
 
 ##Privacy & CoC
+---
 We are both comfortable recording sessions and will record sessions and link to them on github.
 
 ###Milestone 1
+---
 As a fist milestone, I want to be able to lead meetings better.
 
 - Taking notes and leading meeting is not compatible,
@@ -34,6 +40,7 @@ As a fist milestone, I want to be able to lead meetings better.
 - When brainstorming, ask the attendance that you want to go in circle asking everyone their input, and tell them that they are free to skip if they want to.
 
 ### 2nd Meeting (31 July 2018)
+---
 Recording: To be uploaded soon
 
 I watched how Dan and Tierney lead meetings, and I took notes about how to go about starting a meeting. To make sure that the milestone is covered, Dan and I watch a little bit of the last mentorship meeting so Dan can provide feedback on how I lead the meeting.
@@ -46,6 +53,7 @@ I watched how Dan and Tierney lead meetings, and I took notes about how to go ab
 We also discussed how we can get the mentorship initiative more visible to Node.js audience during the collaborator summit.
 
 ###4th Meeting (11 Sept 2018)
+---
 Recording: Not recorded.
 
 We had a 20 minutes meeting.
