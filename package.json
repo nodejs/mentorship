@@ -1,0 +1,20 @@
+{
+  "name": "mentorship",
+  "version": "1.0.0",
+  "description": "Welcome to the Node.js mentorship program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/mentorship.git"
+  },
+  "keywords": [],
+  "author": "Mentorship Program Initiative",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauloNunes/mentorship/issues"
+  },
+  "homepage": "https://github.com/SauloNunes/mentorship#readme"
+}
