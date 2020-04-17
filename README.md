@@ -19,9 +19,11 @@ To get involved sign up for the [Node Slackers](https://www.nodeslackers.com) wo
 
 The Mentorship team identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
 
-### Current Opportunities
+### Current Opportunities and Status
 
 * [Mentorship Team](https://nodejs.aidaform.com/mentorship-team-application)
+  * Now accepting applications until May 8th.
+  * Position starts May 15th.
 
 #### This project is bound by a [Code of Conduct][].
 
