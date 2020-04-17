@@ -47,7 +47,6 @@ Stay in touch with the mentorship program and receive the latest updates:
 * [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com>
 * [bamieh](https://github.com/bamieh) - Ahmad Bamieh <ahmadbamieh@gmail.com>
 * [bcoe](https://github.com/bcoe) - Benjamin Coe <bencoe@google.com>
-* [jxm262](https://github.com/jxm262) - Justin Maat
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr.
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
 
