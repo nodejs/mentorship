@@ -13,7 +13,7 @@
 
 ## 🚀 Get Involved
 
-To get involved sign up for the [Node Slackers](https://www.nodeslackers.com) workspace and join the #mentorship channel. All announcements and opportunities will be posted there first. 
+To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.openjsf.org/) workspace and join the #nodejs-mentorship channel. All announcements and opportunities will be posted there first. 
 
 ### General Mentorship Details
 
