@@ -22,8 +22,8 @@ The Mentorship team identifies specific needs of Working Groups within Node.js a
 ### Current Opportunities and Status
 
 * [Mentorship Team](https://nodejs.aidaform.com/mentorship-team-application)
-  * Now accepting applications until May 8th.
-  * Position starts May 15th.
+  * Now accepting applications until May 15th.
+  * Position starts May 22nd.
 
 #### This project is bound by a [Code of Conduct][].
 
