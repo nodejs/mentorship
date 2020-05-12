@@ -31,7 +31,7 @@ The Mentorship team identifies specific needs of Working Groups within Node.js a
 
 Stay in touch with the mentorship program and receive the latest updates:
 
-- Slack: Join the #mentorship channel on Slack at https://www.nodeslackers.com
+- Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
 - GitHub: Watch this repo for updates.
 
 ## Node.js Mentorship Team Members
