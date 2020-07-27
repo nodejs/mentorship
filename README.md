@@ -39,7 +39,6 @@ Stay in touch with the mentorship program and receive the latest updates:
 * [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com>
-* [saulonunes](https://github.com/saulonunes) - Saulo Nunes <saulo@paralink.com.br>
 
 
 ### Node.js Mentorship Emeriti
@@ -49,6 +48,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 * [bcoe](https://github.com/bcoe) - Benjamin Coe <bencoe@google.com>
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr.
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
+* [saulonunes](https://github.com/saulonunes) - Saulo Nunes <saulo@paralink.com.br>
 
 
 [Mentorship Journal]: JOURNAL.md
