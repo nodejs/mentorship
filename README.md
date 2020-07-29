@@ -17,11 +17,11 @@ To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.o
 
 ### General Mentorship Details
 
-The Mentorship team identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
+The Mentorship initiative identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
 
 ### Current Opportunities and Status
 
-* [Mentorship Team](https://nodejs.aidaform.com/mentorship-team-application)
+* [Mentorship Initiative](https://nodejs.aidaform.com/mentorship-team-application)
   * Now accepting applications until May 15th.
   * Position starts May 22nd.
 
@@ -34,7 +34,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 - Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
 - GitHub: Watch this repo for updates.
 
-## Node.js Mentorship Team Members
+## Node.js Mentorship Initiative Members
 
 * [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
