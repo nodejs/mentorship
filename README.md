@@ -21,9 +21,7 @@ The Mentorship initiative identifies specific needs of Working Groups within Nod
 
 ### Current Opportunities and Status
 
-* [Mentorship Initiative](https://nodejs.aidaform.com/mentorship-team-application)
-  * Now accepting applications until May 15th.
-  * Position starts May 22nd.
+* Node.js Examples Initiative opening coming soon. Watch this spot for details.
 
 #### This project is bound by a [Code of Conduct][].
 
