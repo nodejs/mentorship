@@ -22,7 +22,8 @@ The Mentorship initiative identifies specific needs of Working Groups within Nod
 ### Current Opportunities and Status
 
 * We are happy to announce a [new mentee opening](https://medium.com/@nodejs/announcing-new-node-js-mentorship-opportunity-c3d3cc200b3d)! <br/>
-We’d like to invite experienced developers to apply to join the Node.js Examples Initiative
+We’d like to invite experienced developers to apply to join the Node.js Examples Initiative <br/>
+Applications for this opening will close on September 14th.
 
 #### This project is bound by a [Code of Conduct][].
 
