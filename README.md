@@ -38,6 +38,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com>
+* [LonelyTree](https://github.com/lonelytree) - Alex Hughes <alexhugh121@gmail.com>
 
 ### Node.js Mentorship Emeriti
 
