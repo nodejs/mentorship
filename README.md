@@ -37,7 +37,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 ## Node.js Mentorship Initiative Members
 
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
-* [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com>
+* [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com> - Mentorship Community Manager
 * [LonelyTree](https://github.com/lonelytree) - Alex Hughes <alexhugh121@gmail.com>
 * [Ademola](https://github.com/demola07) - Ademola Sobaki <demolasobaki@gmail.com>
 
