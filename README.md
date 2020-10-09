@@ -40,6 +40,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com>
 * [LonelyTree](https://github.com/lonelytree) - Alex Hughes <alexhugh121@gmail.com>
 * [Ademola](https://github.com/demola07) - Ademola Sobaki <demolasobaki@gmail.com>
+* [choilmto](https://github.com/choilmto) - Cindy Choi <choilmto@gmail.com>
 
 ### Node.js Mentorship Emeriti
 
