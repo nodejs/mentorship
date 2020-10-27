@@ -1,7 +1,7 @@
 {
-  "name": "honkit-demo",
+  "name": "node-mentorship-initiative-onboarding-docs",
   "version": "1.0.0",
-  "description": "Honkit demo for Node Mentorship Initiative",
+  "description": "Onboarding documentation for Node Mentorship Initiative",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/choilmto/honkit-demo.git"
+    "url": "git+https://github.com/nodejs/mentorship.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/choilmto/honkit-demo/issues"
+    "url": "https://github.com/nodejs/mentorship/issues"
   },
-  "homepage": "https://github.com/choilmto/honkit-demo#readme",
+  "homepage": "https://github.com/nodejs/mentorship",
   "devDependencies": {
     "honkit": "^3.6.6"
   }
