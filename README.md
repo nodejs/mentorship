@@ -32,6 +32,10 @@ Stay in touch with the mentorship program and receive the latest updates:
 - Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
 - GitHub: Watch this repo for updates.
 
+## Onboarding documentation
+
+For more information, see the `README.md` at the root level in `onboarding_docs`.
+
 ## Node.js Mentorship Initiative Members
 
 * [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
