@@ -32,9 +32,9 @@ Stay in touch with the mentorship program and receive the latest updates:
 - Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
 - GitHub: Watch this repo for updates.
 
-## Onboarding documentation
+## Onboarding Documentation
 
-For more information, see the `README.md` at the root level in `onboarding_docs`.
+For more information on Mentor and Mentee expectations, see the Onboarding Doc [README.md](onboarding_docs/README.md)
 
 ## Node.js Mentorship Initiative Members
 
