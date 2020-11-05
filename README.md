@@ -15,13 +15,42 @@
 
 To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.openjsf.org/) workspace and join the #nodejs-mentorship channel. All announcements and opportunities will be posted there first. 
 
-### General Mentorship Details
+## General Mentorship Details
 
 The Mentorship initiative identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
+
+#### What does it mean to be a Mentee? 
+
+As a mentee you will attend meetings with your Mentor and take on tasks related to the goals of the initiative you are in. This means getting up close and personal with some integral workings of one of the largest community based programming ecosystems in the world. 
+
+In general, the Mentorship Initiative wants to bring passionate and talented people into the Node.js community.
+
+During your time as a Mentee you will get to know many amazing members of the community as well as an in depth grasp of the Node.js ecosystem. After the mentee period ends — and depending on the amount of effort put into the mentee position — you will be in a great position to do more in the Node.js community.
+
+#### Mentee Expectations
+
+In addition to the decisions made in your Kickoff Meeting, you will expected to create opportunities for yourself and create your own goals with the guidance of your Mentor.
+
+Note that each Mentee position is different when it comes to time needed to invest. This will be described in the Mentee description when the position has been opened.
+
+However, at least 1 hour per week is needed to account for a weekly meeting with your Mentor. More hours will likely be needed to set aside time for work pertaining to your mentorship throughout the week -- depending on the needs of the Initiative you are assigned to.
+
+#### Mentee Responsibilities
+
+1. Assist the Initiative you are assigned to the best of your abilities.
+
+2. Stay on target with the goals you and your Mentor have set as well as stay up to date on tasks suggested to you by Mentor.
+
+3. Be on time to your scheduled meetings between your Mentor and yourself.
+
 
 ### Current Opportunities and Status
 
 * We'll update with new opportunities soon. Stay tuned.
+
+### Previous Opportunities
+
+Find previous openings for mentorship and the initiatives that they helped [here](onboarding_docs/docs/SectionII/previousOpenings.md).
 
 #### This project is bound by a [Code of Conduct][].
 
@@ -32,9 +61,9 @@ Stay in touch with the mentorship program and receive the latest updates:
 - Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
 - GitHub: Watch this repo for updates.
 
-## Onboarding documentation
+## Onboarding Documentation
 
-For more information, see the `README.md` at the root level in `onboarding_docs`.
+For more information on Mentor and Mentee expectations, see the Onboarding Doc [README.md](onboarding_docs/README.md)
 
 ## Node.js Mentorship Initiative Members
 
