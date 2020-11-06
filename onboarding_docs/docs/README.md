@@ -9,7 +9,7 @@ A.J. Roberts [detrohutt@gmail.com](mailto:detrohutt@gmail.com) (Initial document
 
 This is currently a living document because the Mentorship Program is in Beta and evolving rapidly.
 
-Current version: [https://bit.ly/node-mentorship-onboarding-guide](https://bit.ly/node-mentorship-onboarding-guide)
+Current version: [https://nodejs.github.io/mentorship/onboarding/](https://nodejs.github.io/mentorship/onboarding/)
 
 In the future, we may switch to a revisioned document if historical content becomes important. If so, the link above will direct readers to the new document storage location.
 
