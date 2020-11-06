@@ -16,7 +16,7 @@
 
 ----
 
-* [Section I: Mentorship Team Process](SectionI/README.md)
+* [Section I: Mentorship Initiative Process](SectionI/README.md)
   * [General Notes](SectionI/README.md#general-notes)
   * [Step 1: Mentor Outreach (Week 1)](SectionI/MentorOutreach.md)
     * [Motivation](SectionI/MentorOutreach.md#motivation)
@@ -71,8 +71,8 @@
   * [Mentee](Glossary.md#mentee)
   * [Mentor](Glossary.md#mentor)
   * [Mentorship Channel](Glossary.md#mentorship-channel)
-  * [MT Channel](Glossary.md#mt-channel)
-  * [MT](Glossary.md#mt)
+  * [MI Channel](Glossary.md#MI-channel)
+  * [MI](Glossary.md#MI)
   * [Position](Glossary.md#position)
   * [Posting Date](Glossary.md#posting-date)
   * [Process](Glossary.md#process)
@@ -81,6 +81,6 @@
   * [Qualify](Glossary.md#qualify)
   * [Select](Glossary.md#select)
   * [Subscriber](Glossary.md#subscriber)
-  * [Team](Glossary.md#team)
-  * [Team Application](Glossary.md#team-application)
+  * [Initiative](Glossary.md#Initiative)
+  * [Initiative Application](Glossary.md#Initiative-application)
   * [Working Channel](Glossary.md#working-channel)

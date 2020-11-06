@@ -4,7 +4,7 @@
 The more precisely we can define the prerequisites and expectations for an available Position, the easier it is to attract suitable Candidates, and ultimately find the best Mentee we can.
 
 ## Procedure
-The MT will schedule a meeting with the Mentor to discuss requirements.
+The MI will schedule a meeting with the Mentor to discuss requirements.
 
 The Mentor will be provided the following questions ahead of time in the Working Channel:
 * Upcoming Initiative milestones?
