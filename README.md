@@ -63,7 +63,7 @@ Stay in touch with the mentorship program and receive the latest updates:
 
 ## Onboarding Documentation
 
-For more information on Mentor and Mentee expectations, see the Onboarding Doc [README.md](onboarding_docs/README.md)
+For more information on Mentor and Mentee expectations, see the [Onboarding Doc](https://nodejs.github.io/mentorship/onboarding/).
 
 ## Node.js Mentorship Initiative Members
 
