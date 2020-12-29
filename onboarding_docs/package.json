@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nodejs/mentorship",
   "devDependencies": {
-    "honkit": "^3.6.6"
+    "honkit": "^3.6.16"
   }
 }
