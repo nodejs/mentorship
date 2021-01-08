@@ -7,4 +7,4 @@ It is the responsibility of the MI to turn the rough version of the gathered req
 After the meeting, the MI will use the gathered requirements to craft a Initiative Application using aidaform.com.
 
 ## Notes
-* We have yet to create a Initiative Application that involves a code challenge but are currently working on such a Initiative Application.
+* We have created a Initiative Application that involves a code challenge and are currently working on another such a Initiative Application.
