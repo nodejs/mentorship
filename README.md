@@ -46,7 +46,9 @@ However, at least 1 hour per week is needed to account for a weekly meeting with
 
 ### Current Opportunities and Status
 
-* We'll update with new opportunities soon. Stay tuned.
+* We are happy to announce our [new opening](https://nodejs.medium.com/node-js-mentorship-initiative-n-api-opportunity-f5e977694631), in partnership with the Node.js N-API working group.
+
+
 
 ### Previous Opportunities
 
