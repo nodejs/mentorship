@@ -1,16 +1,23 @@
-# Step 7: Selection Process (Week 7)
+# Step 7: Sorting Process (Week 7)
 
 ## Motivation
-With a reasonable amount of Applicants collected, it is time to select the most suitable Candidates and Mentee(s) from the pool.
 
-## Procedure
-1. Any new (non-highlighted) Applicants since the last filtering round are filtered using the same procedure.
-2. If, after filtering, the MI decides there are not enough Candidates, the MI may decide to extend the Application Period. If so, the extension is announced through the usual channels.
-3. Once enough Candidates are collected, the selection process can begin.
-4. The Candidates are split evenly among the present MI members. Each member is assigned a color and the rows on the Applicants results spreadsheet are highlighted those colors.
-5. Each member evaluates the assigned Candidates and chooses a favorite Candidate.
-6. Once all present members have chosen a favorite Candidate, time is given for each member to study the other members’ favorite Candidates and choose a favorite from among all the favorites.
-7. Once all present members have selected a final favorite Candidate, a message in the MI Channel is created with the format “<Mentor’s Initiative Name> Selection”.
-8. Each member types - but does not send - the name of that member’s favorite Candidate as a reply to that message. After a verbal countdown, all members submit their response simultaneously. The Candidate with the most votes becomes the Selected Mentee.
-9. In the case where there is a tie, each member will give their pros and cons to the selected Mentees and deliberate until a selection is made.
-10. Contact with selected Mentee to inform them of their selection is to be made via their profile on the Slack channel and their provided email.
+With the window for applications closed and the filtering of applicants completed, it is time to sort the most suitable Mentee(s) from the applicant pool.
+
+## Sorting Procedure
+
+1. The MI will once again define critera to select applicants. However, this time the critera will be  based on how effective the applicant's skills will be for the working group / initiative. This procedure accounts for other skills that were not specified within our challenge but appeared in the candidate's application. This criteria should then be written down in the Filtering & Sorting Post for record keeping and reference.
+
+>*Note*: Selection of sorting criteria will be different for every mentee position that is posted. Therefore, it is important to receive attributes and skills that would be beneficial to the working group / initiative when the MI discusses a new mentee position with them.
+
+2. Each MI member will proceed to evaluate the filtered Candidates based on the Working Group or Initiative's sorting criteria and choose a favorite Candidate.
+
+3. Once all present members have selected a favorite Candidate, a message in the MI Channel is created with the format “<Mentor’s Initiative Name> Selection”.
+
+4. Here the MI members will post the applicant they believe is the best fit for the position.
+
+5. Based on the MI member responses, a list of the top three applicants will be created. This list will sort the favorite candidates by rank in which we reccommend most given the specific sorting criteria.
+
+6. Once the list has been created, we will send in the top three applicants as a recommendation to the working group / initiative for them to look over and decide.
+
+7. When the applicant is then selected, we will contact the selected Mentee to inform them of their selection. This is to be made via their profile on the Slack channel and their provided email.
