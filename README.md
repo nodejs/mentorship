@@ -1,236 +1,89 @@
-# Node.js Mentorship Program
+<p align="center">
+  <br>
+  <a href="https://nodejs.dev">
+    <img src="https://i.imgur.com/uIFTRPH.png" width="200"/>
+  </a>
+</p>
 
-Welcome to the Node.js mentorship program.
+<h1 align="center">Node.js Mentorship</h1>
 
-- Do you want to enroll as a mentor? Click here to [Apply as a mentor][].
-- Do you want to enroll as a mentee? Click here to [Apply as a mentee][].
+<p align="center">
+  Achieve your goals by connecting with Node.js members and projects.
+</p>
 
-**This project is bound by a [Code of Conduct][].**
+## 🚀 Get Involved
 
-## The goal of the mentorship program
+To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.openjsf.org/) workspace and join the #nodejs-mentorship channel. All announcements and opportunities will be posted there first. 
 
-To bring more contributors to Node.js projects by mentoring people about the
-Node.js environment and ecosystem, helping them contribute to Node.js,
-championing their PRs through code review, and giving general help.
+## General Mentorship Details
 
-#### Benefits for mentees
+The Mentorship initiative identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
 
-- You will receive personalized guidance to contribute to Node.js and related
-projects, and understand its ecosystem.
+#### What does it mean to be a Mentee? 
 
-- You will grow your professional network.
+As a mentee you will attend meetings with your Mentor and take on tasks related to the goals of the initiative you are in. This means getting up close and personal with some integral workings of one of the largest community based programming ecosystems in the world. 
 
-- You will broaden your knowledge about Node.js by connecting with someone
-outside your immediate work group.
+In general, the Mentorship Initiative wants to bring passionate and talented people into the Node.js community.
 
-- You will gain experience in contributing to OSS in general and Node.js
-contributing practices.
+During your time as a Mentee you will get to know many amazing members of the community as well as an in depth grasp of the Node.js ecosystem. After the mentee period ends — and depending on the amount of effort put into the mentee position — you will be in a great position to do more in the Node.js community.
 
-- You will receive personalized help in understanding various projects under
-Node.js and improving your skills.
+#### Mentee Expectations
 
-- You will have an opportunity to work on soft skills such as communication
-and problem solving.
+In addition to the decisions made in your Kickoff Meeting, you will expected to create opportunities for yourself and create your own goals with the guidance of your Mentor.
 
-##### Mentors will help out in the following
+Note that each Mentee position is different when it comes to time needed to invest. This will be described in the Mentee description when the position has been opened.
 
-- General guidance (any topic related to Node.js ecosystem and JavaScript).
+However, at least 1 hour per week is needed to account for a weekly meeting with your Mentor. More hours will likely be needed to set aside time for work pertaining to your mentorship throughout the week -- depending on the needs of the Initiative you are assigned to.
 
-- Guidance for contributing to Node.js OSS.
+#### Mentee Responsibilities
 
-- Code review.
+1. Assist the Initiative you are assigned to the best of your abilities.
 
-- Additional activities agreed upon by both parties such as discussing specific
-resources, pair programming or live coding sessions.
+2. Stay on target with the goals you and your Mentor have set as well as stay up to date on tasks suggested to you by Mentor.
 
-#### Benefits for mentors
+3. Be on time to your scheduled meetings between your Mentor and yourself.
 
-- You will get to meet talented people from across the Node.js community.
 
-- You will have the opportunity to practice mentoring people, giving guidance
-and sharing your knowledge, which is a valuable skill for managers and leaders.
+### Current Opportunities and Status
 
-- You will show your commitment to help the Node.js OSS project.
+* We'll update with new opportunities soon. Stay tuned
+### Previous Opportunities
 
-- You will be invited to Node.js events at a discount, and might get invited to
-speak in Node.js events and conferences.
+Find previous openings for mentorship and the initiatives that they helped [here](onboarding_docs/docs/SectionII/previousOpenings.md).
 
-- You might be invited to participate in group mentorship events and programs.
+#### This project is bound by a [Code of Conduct][].
 
-- You will be joining the Node.js mentors team.
+### Stay Updated
 
-### Mindset
+Stay in touch with the mentorship program and receive the latest updates:
 
-- **Growth Mindset** - A growth-mindset is required for change; if it feels
-overwhelming or scary, you are on the right track - keep going.
+- Slack: Join the #nodejs-mentorship channel on [OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
+- GitHub: Watch this repo for updates.
 
-- **Start Small** - Activity begets activity. Let go of doing things right and
-start doing something. Little steps lead to big change.
+## Onboarding Documentation
 
-- **We’re in this together** - If you feel stuck, reach out to someone for
-support; lean on the mentorship community.
+For more information on Mentor and Mentee expectations, see the [Onboarding Doc](https://nodejs.github.io/mentorship/onboarding/).
 
-### Relationship
+## Node.js Mentorship Initiative Members
 
-- **It’s a two way street** - Mentees lead, mentors guide, but both are active
-participants. Mentoring sets mutual responsibilities and accountability.
+* [DavidGuttman](https://github.com/DavidGuttman) - David Guttman <david@js.la> - Project Lead and Community Committee Champion
+* [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com> - Mentorship Community Manager
+* [LonelyTree](https://github.com/lonelytree) - Alex Hughes <alexhugh121@gmail.com>
+* [Ademola](https://github.com/demola07) - Ademola Sobaki <demolasobaki@gmail.com>
+* [choilmto](https://github.com/choilmto) - Cindy Choi <choilmto@gmail.com>
 
-- **Mentorship is an investment** - Mentorship is an investment for both mentees
-and mentors; you get out of it what you put in.
+### Node.js Mentorship Emeriti
 
-- **A foundation of trust is essential** - Mentoring requires a trusting,
-confidential relationship based on mutual respect. Consistency is key;
-Scheduled consistent meetings are an important part of building the mentorship
-relationship.
-
-### Mentee-specific
-
-- **Goal setting is worth the time** - Goal setting is an iterative process;
-mentees should “raise the bar” for themselves as they progress and their skills
-increase. Take time to reflect on progress and celebrate small wins.
-
-- **Give yourself permission to focus on your career** - It is hard to set aside
-time to focus on your career, but it’s important! You have permission to focus
-on your career.
-
-### Mentor-specific
-
-- **Mentors guide** - Mentors make themselves available to their mentees and
-they actively listen. Guidance includes sharing experiences, past or present,
-and how you may have dealt with a particular challenge or situation.
-
-- **Mentors are a connection point** - Mentors connect mentees with people and
-resources (e.g. articles, classes). Mentors aren’t expected to know all the
-answers. A mentor’s job should be to help mentees work through problems, not
-always being or finding the solution themselves.
-
-# The Mentorship Program Structure
-
-The mentorship duration will be 6 months, during which the mentor will provide
-guidance and help to the mentee on an agreed schedule.
-
-## Process
-
-![Proposed Mentorship Program Structure](/mentorship_process.png?raw=true)
-_*Inspired by [Kubernetes pilot program][]*_
-
-### Declare intent and goals
-
-A project under Node.js, (i.e. node-core) declares the intent to join the
-mentorship program. An announcement (with enrollment instructions) will be added
-in the mentorship project by the CommComm, declaring an opening for a mentorship
-program for the mentioned project.
-
-### Choosing Mentors
-
-The Node.js mentioned project will be the main contributor in electing and
-choosing mentors. In addition to nominated mentors, candidates from the
-community are required to submit a form to apply for the selection process.
-Click here to [Apply as a mentor][].
-
-### Identifying Mentees
-
-Mentees fill in a form to apply to be matched with a
-mentor. Click here to [Apply as a mentee][].
-
-### Matching
-
-Before the program starts, mentees will fill out a survey indicating the areas
-of focus they’d like to work on. Mentors will fill out a similar survey
-indicating the areas they feel comfortable advising on. This information will
-be used to pair people. The Concerned Project community / members will nominate
-mentors, in addition to filtering the list of prospective mentors willing to
-join the program.
-
-The CommComm will match mentor/mentee pairs based on their language, goals,
-and other preferences.
-
-### Kickoff
-
-A kickoff email will be sent informing the mentor/mentee pair about
-their match up.
-
-A meeting will be scheduled to introduce them to each other. Pairs should agree
-on a mentorship schedule, expectations and goals, and the medium of
-communication. They should also decide on what should be held confidential and
-what can be shared outside the relationship.
-
-### Regular Mentor/Mentee Meetings
-
-Mentors and mentees will meet for **at least an hour every month** for the
-following 6 months.
-
-Ongoing Support for mentors and mentees. In addition to the meetings, the mentor
-should champion any PR submitted by the mentee during the mentership program
-in the Node.js project.
-
-- Slack channels for mentors and mentees to create a space for conversation,
-encouragement and learnings.
-
-### Expectations
-
-The mentoring relationship should be **\*mentee-driven and mentor-guided\***.
-The mentee is expected to identify and drive activity towards their career
-goals. Effective mentorship is built on a solid relationship between the mentor
-and mentee, so take time to get to know each other, exploring passions and
-obstacles as they could become relevant (if not already so) to the areas
-of focus.
-
-**Requirements for mentors:**
-
-- Attend the kickoff meeting.
-- Help their mentees refine their goals during the first week of the program.
-- Meet with their mentee for at least one hour every month for 6 months.
-
-**Requirements for mentees:**
-
-- Attend the kickoff meeting.
-- Identify 1-3 career goals.
-- Meet with their mentor for at least one hour every month.
-- Drive activity towards career goals (have a “growth attitude”).
-
-### General Mentorship Details
-
-#### Accounting for language diversity
-
-To account for language diversity, the application form includes the following:
-
-- The preferred language of the mentee/mentor 
-- The fluency in speaking/understanding english
-- Whether the mentee/mentor requires non-english language for communication.
-  - Note that restricting the language might result in a slower pairing process.
-
-#### Displaying the list of mentors and mentees
-
-Initially in the program's GitHub page, and asking candidates to join the Slack
-channel to reach out and meet people over specific channels.
-
-#### What is the communication channel to be used for communication between mentors/mentees?
-
-Slack is used as a channel for the initial meeting, then the pair can decide as
-they see fit.
-
-#### Duration of the mentorship program for the paired up mentor/mentee
-
-6 months.
-
-## Contributing to Node.js Mentorship Program
-
-* [Contributing to the project][]
-* [Working Groups][]
-* [Kicking off the mentorship program initiative][]
-
-## Node.js Mentorship Team Members
-* [@nodejs/mentorship](https://github.com/orgs/nodejs/teams/mentorship/members)
-* [bamieh](https://github.com/bamieh) - Ahmad Bamieh - Project Lead, Co-organizer
-* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com> - Community Committee Champion, Co-organizer
+* [dshaw](https://github.com/dshaw) - Dan Shaw <dshaw@dshaw.com>
+* [bamieh](https://github.com/bamieh) - Ahmad Bamieh <ahmadbamieh@gmail.com>
+* [bcoe](https://github.com/bcoe) - Benjamin Coe <bencoe@google.com>
+* [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr.
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
-* [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr. - Mentee Coordinator for #Mentorship Slack
+* [saulonunes](https://github.com/saulonunes) - Saulo Nunes <saulo@paralink.com.br>
 
 
+[Mentorship Journal]: JOURNAL.md
 [Code of Conduct]: CODE_OF_CONDUCT.md
-[Apply as a mentor]: https://goo.gl/forms/O6VX4ZglvCfX94vu2
-[Apply as a mentee]: https://goo.gl/forms/TUEAIYVqoFXA4WpF2
 [Node.js Foundation]: https://github.com/nodejs
 [Kicking off the mentorship program initiative]: kickoff.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md

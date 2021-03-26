@@ -1,0 +1,35 @@
+name: nodejs-mentorship
+on:
+  push:
+    branches:
+      - master
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set-up Node
+        uses: actions/setup-node@v1
+      - name: Gen Meeting Redirect
+        run: |
+          mkdir -p public/meeting
+          cat > public/meeting/index.html <<EOL
+          <!DOCTYPE html>
+          <html lang="en" dir="ltr"><body><script>
+            window.location = 'https://us02web.zoom.us/j/86411776938?pwd=VGcxVUJWTUpGdlpYWkFPVFdzWVh0dz09'
+          </script></body></html>
+          EOL
+      - name: Build Onboarding Guide
+        run: |
+          cd onboarding_docs
+          npm install
+          npx honkit build ./ ../public/onboarding
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
