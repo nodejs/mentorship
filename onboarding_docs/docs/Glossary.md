@@ -63,5 +63,8 @@ Any Initiative or Working Group that is utilizing the Program to find contributo
 ## Initiative Application
 A form created by the MI and filled out by Applicants interested in filling a Position.
 
-## Working Channel
+## Working Channel (Deprecated)
 Any Slack channel named “nodejs-mentorship-&lt;Initiative name&gt;” in the OpenJS Foundation workspace where &lt;Initiative name&gt; is the name of a Initiative currently working through the Process with the MI.
+
+## Working Document
+A Google Doc created when a Mentor agrees to participate in the Program. It is used to plan, gather feedback, check progress, and provide deliverables.
