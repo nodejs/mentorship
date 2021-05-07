@@ -70,7 +70,6 @@ For more information on Mentor and Mentee expectations, see the [Onboarding Doc]
 * [detrohutt](https://github.com/detrohutt) - A.J. Roberts <detrohutt@gmail.com> - Mentorship Community Manager
 * [LonelyTree](https://github.com/lonelytree) - Alex Hughes <alexhugh121@gmail.com>
 * [Ademola](https://github.com/demola07) - Ademola Sobaki <demolasobaki@gmail.com>
-* [choilmto](https://github.com/choilmto) - Cindy Choi <choilmto@gmail.com>
 
 ### Node.js Mentorship Emeriti
 
@@ -80,6 +79,7 @@ For more information on Mentor and Mentee expectations, see the [Onboarding Doc]
 * [codeekage](https://github.com/codeekage) - Abraham Agiri Jnr.
 * [hollomancer](https://github.com/hollomancer) - Conrad Hollomon
 * [saulonunes](https://github.com/saulonunes) - Saulo Nunes <saulo@paralink.com.br>
+* [choilmto](https://github.com/choilmto) - Cindy Choi <choilmto@gmail.com>
 
 
 [Mentorship Journal]: JOURNAL.md
