@@ -4,7 +4,7 @@
 Once the Mentorship Initiative (MI) has chosen the top performers from the selection process, it is time to forward the results to the specified Initiative.
 
 ## Procedure
-1. The List of the top perfomers will be forwarded by slack to the representative from the specified initiative.
+1. The list of the top perfomers will be forwarded by slack to the representative from the specified initiative.
 
 2. The specified initiative will be given a specified time frame within which they would chose their prefered applicant.
 
