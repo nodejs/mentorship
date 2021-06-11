@@ -1,4 +1,4 @@
-# Step 8: Completion Process (Week 8)
+# Step 9: Completion Process (Week 8)
 
 ## Motivation
 With the Mentee for the specific Initiative selected, it is time to refresh and redirect our organization towards the acquisition and presentation of a new Initiative in need of a Mentee.
