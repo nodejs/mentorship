@@ -19,5 +19,3 @@ With the window for applications closed and the filtering of applicants complete
 5. Based on the MI member responses, a list of the top three applicants will be created. This list will sort the favorite candidates by rank in which we reccommend most given the specific sorting criteria.
 
 6. Once the list has been created, we will send in the top three applicants as a recommendation to the working group / initiative for them to look over and decide.
-
-7. When the applicant is then selected, we will contact the selected Mentee to inform them of their selection. This is to be made via their profile on the Slack channel and their provided email.
