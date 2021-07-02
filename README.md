@@ -13,7 +13,13 @@
 
 ## 🚀 Get Involved
 
+### Mentees
+
 To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.openjsf.org/) workspace and join the #nodejs-mentorship channel. All announcements and opportunities will be posted there first. 
+
+### Mentors
+
+If you're interested in mentoring someone for your working group or initiative, please fill out [this short form](https://nodejs.aidaform.com/node-js-initiative-group-application-mentor) and open an issue on this repo letting us know you've completed the form. We will get back to you about your application within 2 weeks.
 
 ## General Mentorship Details
 
