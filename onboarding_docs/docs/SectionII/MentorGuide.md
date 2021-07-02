@@ -19,21 +19,28 @@ In the planning phase, the MI and Mentor work together to determine and specify 
 During most of the acquisition phase, the Mentor is just waiting to give people time to hear about and complete the Initiative Application. Near the end of this phase, the Mentor has the opportunity to review or be involved in the selection of the Mentee.
 
 ## Phase 3: Onboarding
+
 Once the Mentee has been selected, our aim is to transition that person smoothly onto the Initiative and ensure a good fit. The MI will gather feedback, give recommendations, and potentially provide an alternative Mentee in the event the first isn’t working out.
 
 1. Schedule Meeting
-  * Reach out to Mentee for introductions and set quarterly 3 month goal
-    * Detail milestones along the way
-  * Set 1st quick win
-  * Set time for weekly check in
+
+- Reach out to Mentee for introductions and set quarterly 3 month goal
+  - Detail milestones along the way
+- Set 1st quick win
+- Set time for weekly check in
 
 2. Weekly Check-in
-  * Monitor progress towards goal
-  * Answer questions
-  * Ask how previous or ongoing task is going
-  * Answer any questions  
-  * Set new tasks for things to work on
+
+- Monitor progress towards goal
+- Answer questions
+- Ask how previous or ongoing task is going
+- Answer any questions
+- Set new tasks for things to work on
 
 ## Phase 4: Acceptance
 
-Once the Initiative is satisfied with the selected Mentee and the Mentee is accepted as a Member of the Initiative, communication between the MI and the Initiative ends until another Mentee is needed.
+Once the Initiative is satisfied with the selected Mentee and the Mentee is accepted as a Member of the Initiative, communication between the MI and the Initiative ends until feedback phase.
+
+## Phase 5: Feedback
+
+MI will reach out to Mentor in five weeks after the acceptance phase to get feedback on Mentee's performance and goal achievment.
