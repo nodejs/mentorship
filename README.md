@@ -23,32 +23,19 @@ If you're interested in mentoring someone for your working group or initiative, 
 
 ## General Mentorship Details
 
-The Mentorship initiative identifies specific needs of Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
+The Mentorship initiative identifies specific needs of Initiatives and Working Groups within Node.js and posts applications for available opportunities. If there's a position you're interested in, please complete the application, and we'll get back to you about how you can help.
 
 #### What does it mean to be a Mentee? 
 
-As a mentee you will attend meetings with your Mentor and take on tasks related to the goals of the initiative you are in. This means getting up close and personal with some integral workings of one of the largest community based programming ecosystems in the world. 
-
 In general, the Mentorship Initiative wants to bring passionate and talented people into the Node.js community.
 
-During your time as a Mentee you will get to know many amazing members of the community as well as an in depth grasp of the Node.js ecosystem. After the mentee period ends — and depending on the amount of effort put into the mentee position — you will be in a great position to do more in the Node.js community.
+As a mentee you will attend meetings with your Mentor and take on tasks related to the goals of the Initiative or Working Group you are in. This means getting up close and personal with some integral workings of one of the largest community based programming ecosystems in the world. 
 
-#### Mentee Expectations
+During your time as a Mentee you will get to know many amazing members of the community. You'll also be able to make a direct and personal impact on the direction of the Node.js project through your work in your chosen Initiative or Working Group.
 
-In addition to the decisions made in your Kickoff Meeting, you will expected to create opportunities for yourself and create your own goals with the guidance of your Mentor.
+#### Mentee Commitment
 
-Note that each Mentee position is different when it comes to time needed to invest. This will be described in the Mentee description when the position has been opened.
-
-However, at least 1 hour per week is needed to account for a weekly meeting with your Mentor. More hours will likely be needed to set aside time for work pertaining to your mentorship throughout the week -- depending on the needs of the Initiative you are assigned to.
-
-#### Mentee Responsibilities
-
-1. Assist the Initiative you are assigned to the best of your abilities.
-
-2. Stay on target with the goals you and your Mentor have set as well as stay up to date on tasks suggested to you by Mentor.
-
-3. Be on time to your scheduled meetings between your Mentor and yourself.
-
+Mentees should be self-motivated and professional. Our Mentors' time is valuable. They are there to offer support, insight, and answers, but you should be proactive about identifying the areas of greatest need and doing your best to help move things forward in those areas. This will require consistent time and effort on your part. One hour per week would be a bare minimum commitment on an Initiative or Working Group that holds biweekly meetings. More time would be required if meetings are held weekly, as time is needed to complete tasks outside of the meetings. 
 
 ### Current Opportunities and Status
 
