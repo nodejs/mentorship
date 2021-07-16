@@ -19,7 +19,21 @@ To get involved sign up for the [OpenJS Foundation Slack](https://slack-invite.o
 
 ### Mentors
 
-If you're interested in mentoring someone for your working group or initiative, please fill out [this short form](https://nodejs.aidaform.com/node-js-initiative-group-application-mentor) and open an issue on this repo letting us know you've completed the form. We will get back to you about your application within 2 weeks.
+Our goal is to help “fill in the gaps” on Initiatives and Working Groups that have important work to do, but a lack of people-power to accomplish it all. If this describes your group, you are our target audience!
+
+We provide the people and you all provide the knowledge and support for getting them ramped up and providing value. Here’s what being a Mentor entails:
+
+1. You fill out the Mentor Application form (it’s very short!) and open an issue on this repo letting us know you’ve completed the form
+2. We’ll arrange a 1 hour “Requirements Gathering” meeting between you and the Mentorship Initiative where we work together to iron out exactly what your group needs in a Mentee, how soon, etc
+3. The Mentorship Initiative designs, creates, and publishes an “Opportunity”, takes Applicants, and filters and sorts them down to our top recommendations based on the needs we discussed in the Requirements Gathering meeting
+4. You choose which Applicant you’d like to take on as a Mentee and we connect you to each other
+5. The Mentee starts attending your group meetings and you work with your new Mentee to identify some tasks or a small project they can work on and complete
+6. When the Mentee has questions or needs additional context, you provide them with what they need, and ideally give them feedback on what they’re doing well and where they could improve; we encourage additional, periodic one-on-one meetings, but you and your Mentee are free to decide what works best in your particular case
+7. Optimally, your Mentee will eventually become a full member of your Initiative or Working Group, and maybe even become a Mentor themselves
+
+If anything out of the ordinary arises, the Mentorship Initiative is always here to offer guidance or provide solutions. If we don’t hear from you we will assume things are going well, and we will check in after a month from connecting you with your Mentee to see how things are going. This helps us fine-tune our process and ensure the mentorship relationship is working as intended.
+
+And that’s pretty much it! If this sounds good to you and you're interested in mentoring someone for your Initiative or Working Group, go ahead and fill out [this short form](https://nodejs.aidaform.com/node-js-initiative-group-application-mentor) and open an issue on this repo letting us know you've completed the form. We will get back to you about your application within 2 weeks.
 
 ## General Mentorship Details
 
